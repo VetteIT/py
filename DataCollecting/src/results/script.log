@@ -1,0 +1,1467 @@
+2024-12-24 13:12:49,806 - INFO - Script execution started
+2024-12-24 13:12:49,806 - INFO - Starting repository selection
+2024-12-24 13:12:49,807 - INFO - Processing search page 1
+2024-12-24 13:12:49,807 - INFO - Searching repositories: page 1, 50 per page
+2024-12-24 13:12:51,611 - INFO - Found 50 repositories on page 1
+2024-12-24 13:12:51,612 - INFO - Starting processing repository: admiral9200/lets-quiz
+2024-12-24 13:12:51,612 - INFO - Fetching contributors for repository: admiral9200/lets-quiz
+2024-12-24 13:12:51,613 - INFO - Starting processing repository: saria-mohi/JAVA
+2024-12-24 13:12:51,613 - INFO - Fetching contributors for repository: saria-mohi/JAVA
+2024-12-24 13:12:51,614 - INFO - Starting processing repository: gvalverd/MLUCM2223
+2024-12-24 13:12:51,616 - INFO - Fetching contributors for repository: gvalverd/MLUCM2223
+2024-12-24 13:12:51,617 - INFO - Starting processing repository: Badhon7821/react-todo-app
+2024-12-24 13:12:51,617 - INFO - Fetching contributors for repository: Badhon7821/react-todo-app
+2024-12-24 13:12:51,618 - INFO - Starting processing repository: noge-labs/kind2lisp
+2024-12-24 13:12:51,618 - INFO - Fetching contributors for repository: noge-labs/kind2lisp
+2024-12-24 13:12:51,619 - INFO - Starting processing repository: Michel-Heinz/Audito
+2024-12-24 13:12:51,619 - INFO - Fetching contributors for repository: Michel-Heinz/Audito
+2024-12-24 13:12:51,620 - INFO - Starting processing repository: andradeigor/punpuns-portfolio
+2024-12-24 13:12:51,620 - INFO - Fetching contributors for repository: andradeigor/punpuns-portfolio
+2024-12-24 13:12:51,620 - INFO - Starting processing repository: MitkoVtori/ChristmasShop
+2024-12-24 13:12:51,620 - INFO - Fetching contributors for repository: MitkoVtori/ChristmasShop
+2024-12-24 13:12:51,621 - INFO - Starting processing repository: snepsnepy/romanian-programming-language
+2024-12-24 13:12:51,621 - INFO - Fetching contributors for repository: snepsnepy/romanian-programming-language
+2024-12-24 13:12:51,622 - INFO - Starting processing repository: WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:12:51,622 - INFO - Fetching contributors for repository: WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:12:51,821 - INFO - Fetched 1 contributors for admiral9200/lets-quiz
+2024-12-24 13:12:51,821 - INFO - Added repository: admiral9200/lets-quiz
+2024-12-24 13:12:51,821 - INFO - Starting processing repository: SanfordWeber/luckytoadsss
+2024-12-24 13:12:51,821 - INFO - Fetching contributors for repository: SanfordWeber/luckytoadsss
+2024-12-24 13:12:51,871 - INFO - Fetched 1 contributors for Michel-Heinz/Audito
+2024-12-24 13:12:51,871 - INFO - Added repository: Michel-Heinz/Audito
+2024-12-24 13:12:51,871 - INFO - Starting processing repository: lrangell/theme-cycler.nvim
+2024-12-24 13:12:51,872 - INFO - Fetching contributors for repository: lrangell/theme-cycler.nvim
+2024-12-24 13:12:51,908 - INFO - Fetched 1 contributors for saria-mohi/JAVA
+2024-12-24 13:12:51,909 - INFO - Added repository: saria-mohi/JAVA
+2024-12-24 13:12:51,909 - INFO - Starting processing repository: KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:12:51,909 - INFO - Fetching contributors for repository: KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:12:51,920 - INFO - Fetched 1 contributors for gvalverd/MLUCM2223
+2024-12-24 13:12:51,920 - INFO - Added repository: gvalverd/MLUCM2223
+2024-12-24 13:12:51,920 - INFO - Starting processing repository: lmbelo/xml-lexer4delphi
+2024-12-24 13:12:51,920 - INFO - Fetching contributors for repository: lmbelo/xml-lexer4delphi
+2024-12-24 13:12:51,925 - INFO - Fetched 1 contributors for Badhon7821/react-todo-app
+2024-12-24 13:12:51,925 - INFO - Added repository: Badhon7821/react-todo-app
+2024-12-24 13:12:51,925 - INFO - Starting processing repository: rockstarcoder333/Drum-Classification
+2024-12-24 13:12:51,925 - INFO - Fetching contributors for repository: rockstarcoder333/Drum-Classification
+2024-12-24 13:12:51,936 - INFO - Fetched 1 contributors for MitkoVtori/ChristmasShop
+2024-12-24 13:12:51,936 - INFO - Added repository: MitkoVtori/ChristmasShop
+2024-12-24 13:12:51,937 - INFO - Starting processing repository: xlab-uiuc/csi-ae
+2024-12-24 13:12:51,937 - INFO - Fetching contributors for repository: xlab-uiuc/csi-ae
+2024-12-24 13:12:51,939 - INFO - Fetched 2 contributors for andradeigor/punpuns-portfolio
+2024-12-24 13:12:51,941 - INFO - Added repository: andradeigor/punpuns-portfolio
+2024-12-24 13:12:51,941 - INFO - Fetched 1 contributors for WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:12:51,941 - INFO - Added repository: WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:12:51,941 - INFO - Starting processing repository: notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:12:51,941 - INFO - Fetching contributors for repository: notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:12:51,942 - INFO - Starting processing repository: Badhon7821/proxima-server
+2024-12-24 13:12:51,942 - INFO - Fetching contributors for repository: Badhon7821/proxima-server
+2024-12-24 13:12:51,952 - INFO - Fetched 1 contributors for snepsnepy/romanian-programming-language
+2024-12-24 13:12:51,952 - INFO - Added repository: snepsnepy/romanian-programming-language
+2024-12-24 13:12:51,952 - INFO - Starting processing repository: linuxandchill/BabyAGIxLangchain
+2024-12-24 13:12:51,952 - INFO - Fetching contributors for repository: linuxandchill/BabyAGIxLangchain
+2024-12-24 13:12:51,966 - INFO - Fetched 1 contributors for noge-labs/kind2lisp
+2024-12-24 13:12:51,967 - INFO - Added repository: noge-labs/kind2lisp
+2024-12-24 13:12:51,967 - INFO - Starting processing repository: pip64/PyDimanify
+2024-12-24 13:12:51,967 - INFO - Fetching contributors for repository: pip64/PyDimanify
+2024-12-24 13:12:52,050 - INFO - Fetched 1 contributors for SanfordWeber/luckytoadsss
+2024-12-24 13:12:52,050 - INFO - Added repository: SanfordWeber/luckytoadsss
+2024-12-24 13:12:52,050 - INFO - Starting processing repository: wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:12:52,051 - INFO - Fetching contributors for repository: wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:12:52,085 - INFO - Fetched 2 contributors for lrangell/theme-cycler.nvim
+2024-12-24 13:12:52,085 - INFO - Added repository: lrangell/theme-cycler.nvim
+2024-12-24 13:12:52,085 - INFO - Starting processing repository: sandhya8109/chelibeti
+2024-12-24 13:12:52,085 - INFO - Fetching contributors for repository: sandhya8109/chelibeti
+2024-12-24 13:12:52,125 - INFO - Fetched 3 contributors for KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:12:52,125 - INFO - Added repository: KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:12:52,125 - INFO - Starting processing repository: spencer2k19/SwiftUIMapApp
+2024-12-24 13:12:52,125 - INFO - Fetching contributors for repository: spencer2k19/SwiftUIMapApp
+2024-12-24 13:12:52,137 - INFO - Fetched 1 contributors for lmbelo/xml-lexer4delphi
+2024-12-24 13:12:52,137 - INFO - Added repository: lmbelo/xml-lexer4delphi
+2024-12-24 13:12:52,137 - INFO - Starting processing repository: gege5758/jOBSTREET
+2024-12-24 13:12:52,137 - INFO - Fetching contributors for repository: gege5758/jOBSTREET
+2024-12-24 13:12:52,145 - INFO - Fetched 1 contributors for rockstarcoder333/Drum-Classification
+2024-12-24 13:12:52,146 - INFO - Added repository: rockstarcoder333/Drum-Classification
+2024-12-24 13:12:52,146 - INFO - Starting processing repository: firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:12:52,146 - INFO - Fetching contributors for repository: firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:12:52,177 - INFO - Fetched 1 contributors for linuxandchill/BabyAGIxLangchain
+2024-12-24 13:12:52,179 - INFO - Added repository: linuxandchill/BabyAGIxLangchain
+2024-12-24 13:12:52,179 - INFO - Fetched 1 contributors for Badhon7821/proxima-server
+2024-12-24 13:12:52,179 - INFO - Added repository: Badhon7821/proxima-server
+2024-12-24 13:12:52,179 - INFO - Starting processing repository: eth-cscs/SummerUniversity2023
+2024-12-24 13:12:52,179 - INFO - Fetching contributors for repository: eth-cscs/SummerUniversity2023
+2024-12-24 13:12:52,180 - INFO - Starting processing repository: isaacmadeswa/ddsfsd
+2024-12-24 13:12:52,180 - INFO - Fetching contributors for repository: isaacmadeswa/ddsfsd
+2024-12-24 13:12:52,192 - INFO - Fetched 1 contributors for pip64/PyDimanify
+2024-12-24 13:12:52,192 - INFO - Added repository: pip64/PyDimanify
+2024-12-24 13:12:52,192 - INFO - Starting processing repository: Zola05408516/Zola
+2024-12-24 13:12:52,193 - INFO - Fetching contributors for repository: Zola05408516/Zola
+2024-12-24 13:12:52,194 - INFO - Fetched 1 contributors for notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:12:52,194 - INFO - Added repository: notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:12:52,194 - INFO - Starting processing repository: morningior-m0-5/rtos-05
+2024-12-24 13:12:52,194 - INFO - Fetching contributors for repository: morningior-m0-5/rtos-05
+2024-12-24 13:12:52,219 - INFO - Fetched 2 contributors for xlab-uiuc/csi-ae
+2024-12-24 13:12:52,219 - INFO - Added repository: xlab-uiuc/csi-ae
+2024-12-24 13:12:52,219 - INFO - Starting processing repository: kenyumar/wer
+2024-12-24 13:12:52,219 - INFO - Fetching contributors for repository: kenyumar/wer
+2024-12-24 13:12:52,234 - INFO - Fetched 2 contributors for wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:12:52,234 - INFO - Added repository: wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:12:52,234 - INFO - Starting processing repository: saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:12:52,234 - INFO - Fetching contributors for repository: saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:12:52,274 - INFO - Fetched 1 contributors for sandhya8109/chelibeti
+2024-12-24 13:12:52,275 - INFO - Added repository: sandhya8109/chelibeti
+2024-12-24 13:12:52,275 - INFO - Starting processing repository: edouardmendi16/edouard
+2024-12-24 13:12:52,275 - INFO - Fetching contributors for repository: edouardmendi16/edouard
+2024-12-24 13:12:52,349 - INFO - Fetched 0 contributors for isaacmadeswa/ddsfsd
+2024-12-24 13:12:52,350 - INFO - Added repository: isaacmadeswa/ddsfsd
+2024-12-24 13:12:52,350 - INFO - Starting processing repository: ranaawais4215/45t
+2024-12-24 13:12:52,350 - INFO - Fetching contributors for repository: ranaawais4215/45t
+2024-12-24 13:12:52,351 - INFO - Fetched 1 contributors for gege5758/jOBSTREET
+2024-12-24 13:12:52,351 - INFO - Added repository: gege5758/jOBSTREET
+2024-12-24 13:12:52,351 - INFO - Starting processing repository: vinhtran2385/expert-computing-machine
+2024-12-24 13:12:52,351 - INFO - Fetching contributors for repository: vinhtran2385/expert-computing-machine
+2024-12-24 13:12:52,353 - INFO - Fetched 1 contributors for spencer2k19/SwiftUIMapApp
+2024-12-24 13:12:52,354 - INFO - Added repository: spencer2k19/SwiftUIMapApp
+2024-12-24 13:12:52,354 - INFO - Starting processing repository: hanachan0/hellohana
+2024-12-24 13:12:52,354 - INFO - Fetching contributors for repository: hanachan0/hellohana
+2024-12-24 13:12:52,358 - INFO - Fetched 2 contributors for firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:12:52,358 - INFO - Added repository: firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:12:52,359 - INFO - Starting processing repository: Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:12:52,359 - INFO - Fetching contributors for repository: Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:12:52,388 - INFO - Fetched 0 contributors for morningior-m0-5/rtos-05
+2024-12-24 13:12:52,388 - INFO - Added repository: morningior-m0-5/rtos-05
+2024-12-24 13:12:52,388 - INFO - Starting processing repository: bachittle/FileGPT
+2024-12-24 13:12:52,388 - INFO - Fetching contributors for repository: bachittle/FileGPT
+2024-12-24 13:12:52,399 - INFO - Fetched 0 contributors for Zola05408516/Zola
+2024-12-24 13:12:52,399 - INFO - Added repository: Zola05408516/Zola
+2024-12-24 13:12:52,399 - INFO - Starting processing repository: tiagorbf/indie-twitter-plugin
+2024-12-24 13:12:52,399 - INFO - Fetching contributors for repository: tiagorbf/indie-twitter-plugin
+2024-12-24 13:12:52,406 - INFO - Fetched 0 contributors for kenyumar/wer
+2024-12-24 13:12:52,407 - INFO - Added repository: kenyumar/wer
+2024-12-24 13:12:52,407 - INFO - Starting processing repository: quii/learn-clojure-with-tests
+2024-12-24 13:12:52,407 - INFO - Fetching contributors for repository: quii/learn-clojure-with-tests
+2024-12-24 13:12:52,408 - INFO - Fetched 3 contributors for eth-cscs/SummerUniversity2023
+2024-12-24 13:12:52,408 - INFO - Added repository: eth-cscs/SummerUniversity2023
+2024-12-24 13:12:52,408 - INFO - Starting processing repository: shapoco/uart-over-midi
+2024-12-24 13:12:52,408 - INFO - Fetching contributors for repository: shapoco/uart-over-midi
+2024-12-24 13:12:52,457 - INFO - Fetched 0 contributors for edouardmendi16/edouard
+2024-12-24 13:12:52,457 - INFO - Added repository: edouardmendi16/edouard
+2024-12-24 13:12:52,457 - INFO - Starting processing repository: fendouai/babyagi_zh
+2024-12-24 13:12:52,457 - INFO - Fetching contributors for repository: fendouai/babyagi_zh
+2024-12-24 13:12:52,471 - INFO - Fetched 1 contributors for saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:12:52,471 - INFO - Added repository: saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:12:52,471 - INFO - Starting processing repository: MarcoWorms/repo-radar
+2024-12-24 13:12:52,471 - INFO - Fetching contributors for repository: MarcoWorms/repo-radar
+2024-12-24 13:12:52,533 - INFO - Fetched 0 contributors for ranaawais4215/45t
+2024-12-24 13:12:52,534 - INFO - Added repository: ranaawais4215/45t
+2024-12-24 13:12:52,534 - INFO - Starting processing repository: BOWSTRINGHERO/dianthus
+2024-12-24 13:12:52,534 - INFO - Fetching contributors for repository: BOWSTRINGHERO/dianthus
+2024-12-24 13:12:52,554 - INFO - Fetched 0 contributors for hanachan0/hellohana
+2024-12-24 13:12:52,554 - INFO - Added repository: hanachan0/hellohana
+2024-12-24 13:12:52,554 - INFO - Starting processing repository: Raven34152/Raven34152
+2024-12-24 13:12:52,554 - INFO - Fetching contributors for repository: Raven34152/Raven34152
+2024-12-24 13:12:52,564 - INFO - Fetched 1 contributors for Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:12:52,564 - INFO - Added repository: Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:12:52,564 - INFO - Starting processing repository: Kingfisher102/Kingfisher102
+2024-12-24 13:12:52,564 - INFO - Fetching contributors for repository: Kingfisher102/Kingfisher102
+2024-12-24 13:12:52,585 - INFO - Fetched 1 contributors for bachittle/FileGPT
+2024-12-24 13:12:52,585 - INFO - Added repository: bachittle/FileGPT
+2024-12-24 13:12:52,586 - INFO - Fetched 1 contributors for vinhtran2385/expert-computing-machine
+2024-12-24 13:12:52,586 - INFO - Added repository: vinhtran2385/expert-computing-machine
+2024-12-24 13:12:52,586 - INFO - Starting processing repository: Crow167/Crow167
+2024-12-24 13:12:52,586 - INFO - Fetching contributors for repository: Crow167/Crow167
+2024-12-24 13:12:52,587 - INFO - Starting processing repository: uri1001/the-evm-networks-project
+2024-12-24 13:12:52,587 - INFO - Fetching contributors for repository: uri1001/the-evm-networks-project
+2024-12-24 13:12:52,595 - INFO - Fetched 1 contributors for tiagorbf/indie-twitter-plugin
+2024-12-24 13:12:52,595 - INFO - Added repository: tiagorbf/indie-twitter-plugin
+2024-12-24 13:12:52,595 - INFO - Starting processing repository: fazt/python-click-tutorial
+2024-12-24 13:12:52,596 - INFO - Fetching contributors for repository: fazt/python-click-tutorial
+2024-12-24 13:12:52,636 - INFO - Fetched 1 contributors for shapoco/uart-over-midi
+2024-12-24 13:12:52,636 - INFO - Added repository: shapoco/uart-over-midi
+2024-12-24 13:12:52,636 - INFO - Fetched 1 contributors for quii/learn-clojure-with-tests
+2024-12-24 13:12:52,637 - INFO - Added repository: quii/learn-clojure-with-tests
+2024-12-24 13:12:52,637 - INFO - Starting processing repository: Shubh2-0/Coupling
+2024-12-24 13:12:52,637 - INFO - Fetching contributors for repository: Shubh2-0/Coupling
+2024-12-24 13:12:52,637 - INFO - Starting processing repository: federicaulzurrun/AwesomeBooks
+2024-12-24 13:12:52,638 - INFO - Fetching contributors for repository: federicaulzurrun/AwesomeBooks
+2024-12-24 13:12:52,639 - INFO - Fetched 1 contributors for fendouai/babyagi_zh
+2024-12-24 13:12:52,639 - INFO - Added repository: fendouai/babyagi_zh
+2024-12-24 13:12:52,729 - INFO - Fetched 1 contributors for BOWSTRINGHERO/dianthus
+2024-12-24 13:12:52,729 - INFO - Added repository: BOWSTRINGHERO/dianthus
+2024-12-24 13:12:52,729 - INFO - Fetched 2 contributors for MarcoWorms/repo-radar
+2024-12-24 13:12:52,730 - INFO - Added repository: MarcoWorms/repo-radar
+2024-12-24 13:12:52,761 - INFO - Fetched 0 contributors for Kingfisher102/Kingfisher102
+2024-12-24 13:12:52,761 - INFO - Added repository: Kingfisher102/Kingfisher102
+2024-12-24 13:12:52,761 - INFO - Fetched 0 contributors for Raven34152/Raven34152
+2024-12-24 13:12:52,761 - INFO - Added repository: Raven34152/Raven34152
+2024-12-24 13:12:52,769 - INFO - Fetched 1 contributors for uri1001/the-evm-networks-project
+2024-12-24 13:12:52,769 - INFO - Added repository: uri1001/the-evm-networks-project
+2024-12-24 13:12:52,770 - INFO - Fetched 0 contributors for Crow167/Crow167
+2024-12-24 13:12:52,770 - INFO - Added repository: Crow167/Crow167
+2024-12-24 13:12:52,838 - INFO - Fetched 1 contributors for fazt/python-click-tutorial
+2024-12-24 13:12:52,838 - INFO - Added repository: fazt/python-click-tutorial
+2024-12-24 13:12:52,839 - INFO - Fetched 1 contributors for Shubh2-0/Coupling
+2024-12-24 13:12:52,839 - INFO - Added repository: Shubh2-0/Coupling
+2024-12-24 13:12:52,839 - INFO - Fetched 2 contributors for federicaulzurrun/AwesomeBooks
+2024-12-24 13:12:52,839 - INFO - Added repository: federicaulzurrun/AwesomeBooks
+2024-12-24 13:12:52,839 - INFO - Page 1 processed. Collected 50 repositories.
+2024-12-24 13:12:53,847 - INFO - Processing search page 2
+2024-12-24 13:12:53,848 - INFO - Searching repositories: page 2, 50 per page
+2024-12-24 13:12:55,488 - INFO - Found 50 repositories on page 2
+2024-12-24 13:12:55,489 - INFO - Starting processing repository: cmslee/caseylee-portfolio
+2024-12-24 13:12:55,489 - INFO - Fetching contributors for repository: cmslee/caseylee-portfolio
+2024-12-24 13:12:55,489 - INFO - Starting processing repository: chenning0115/spectral_diff_temp
+2024-12-24 13:12:55,490 - INFO - Fetching contributors for repository: chenning0115/spectral_diff_temp
+2024-12-24 13:12:55,490 - INFO - Starting processing repository: MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:12:55,490 - INFO - Fetching contributors for repository: MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:12:55,490 - INFO - Starting processing repository: prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:12:55,491 - INFO - Fetching contributors for repository: prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:12:55,491 - INFO - Starting processing repository: vychodlc/SlunceUI
+2024-12-24 13:12:55,491 - INFO - Fetching contributors for repository: vychodlc/SlunceUI
+2024-12-24 13:12:55,491 - INFO - Starting processing repository: MathItYT/manim-svg-animations
+2024-12-24 13:12:55,492 - INFO - Fetching contributors for repository: MathItYT/manim-svg-animations
+2024-12-24 13:12:55,492 - INFO - Starting processing repository: eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:12:55,492 - INFO - Fetching contributors for repository: eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:12:55,493 - INFO - Starting processing repository: scarey/bass-reactive-leds
+2024-12-24 13:12:55,493 - INFO - Fetching contributors for repository: scarey/bass-reactive-leds
+2024-12-24 13:12:55,493 - INFO - Starting processing repository: philnash/asst
+2024-12-24 13:12:55,493 - INFO - Fetching contributors for repository: philnash/asst
+2024-12-24 13:12:55,494 - INFO - Starting processing repository: pycadd/PycadNewsletter
+2024-12-24 13:12:55,494 - INFO - Fetching contributors for repository: pycadd/PycadNewsletter
+2024-12-24 13:12:55,772 - INFO - Fetched 1 contributors for eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:12:55,773 - INFO - Added repository: eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:12:55,773 - INFO - Fetched 2 contributors for MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:12:55,773 - INFO - Added repository: MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:12:55,773 - INFO - Fetched 1 contributors for chenning0115/spectral_diff_temp
+2024-12-24 13:12:55,774 - INFO - Added repository: chenning0115/spectral_diff_temp
+2024-12-24 13:12:55,774 - INFO - Fetched 1 contributors for cmslee/caseylee-portfolio
+2024-12-24 13:12:55,774 - INFO - Added repository: cmslee/caseylee-portfolio
+2024-12-24 13:12:55,774 - INFO - Fetched 1 contributors for vychodlc/SlunceUI
+2024-12-24 13:12:55,775 - INFO - Added repository: vychodlc/SlunceUI
+2024-12-24 13:12:55,775 - INFO - Fetched 1 contributors for scarey/bass-reactive-leds
+2024-12-24 13:12:55,775 - INFO - Added repository: scarey/bass-reactive-leds
+2024-12-24 13:12:55,775 - INFO - Fetched 1 contributors for pycadd/PycadNewsletter
+2024-12-24 13:12:55,775 - INFO - Added repository: pycadd/PycadNewsletter
+2024-12-24 13:12:55,776 - INFO - Starting processing repository: GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:12:55,776 - INFO - Fetching contributors for repository: GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:12:55,777 - INFO - Starting processing repository: farhang74/feature-space
+2024-12-24 13:12:55,777 - INFO - Fetching contributors for repository: farhang74/feature-space
+2024-12-24 13:12:55,778 - INFO - Starting processing repository: zhfei/BubblePopup
+2024-12-24 13:12:55,778 - INFO - Fetching contributors for repository: zhfei/BubblePopup
+2024-12-24 13:12:55,779 - INFO - Starting processing repository: chedlibelfguira2018/chedli632
+2024-12-24 13:12:55,779 - INFO - Fetching contributors for repository: chedlibelfguira2018/chedli632
+2024-12-24 13:12:55,780 - INFO - Starting processing repository: vivimama870/vivi5466
+2024-12-24 13:12:55,780 - INFO - Fetching contributors for repository: vivimama870/vivi5466
+2024-12-24 13:12:55,781 - INFO - Starting processing repository: rdev/butmyrectangles
+2024-12-24 13:12:55,781 - INFO - Fetching contributors for repository: rdev/butmyrectangles
+2024-12-24 13:12:55,781 - INFO - Starting processing repository: Clam786/which
+2024-12-24 13:12:55,781 - INFO - Fetching contributors for repository: Clam786/which
+2024-12-24 13:12:55,782 - INFO - Fetched 1 contributors for MathItYT/manim-svg-animations
+2024-12-24 13:12:55,782 - INFO - Added repository: MathItYT/manim-svg-animations
+2024-12-24 13:12:55,782 - INFO - Fetched 1 contributors for philnash/asst
+2024-12-24 13:12:55,782 - INFO - Added repository: philnash/asst
+2024-12-24 13:12:55,783 - INFO - Fetched 4 contributors for prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:12:55,783 - INFO - Added repository: prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:12:55,783 - INFO - Starting processing repository: 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:12:55,783 - INFO - Fetching contributors for repository: 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:12:55,783 - INFO - Starting processing repository: matiasngf/pepito-tracker
+2024-12-24 13:12:55,784 - INFO - Fetching contributors for repository: matiasngf/pepito-tracker
+2024-12-24 13:12:55,784 - INFO - Starting processing repository: sunshinemichealapata/sunshi
+2024-12-24 13:12:55,784 - INFO - Fetching contributors for repository: sunshinemichealapata/sunshi
+2024-12-24 13:12:55,952 - INFO - Fetched 0 contributors for Clam786/which
+2024-12-24 13:12:55,952 - INFO - Added repository: Clam786/which
+2024-12-24 13:12:55,953 - INFO - Starting processing repository: Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:12:55,953 - INFO - Fetching contributors for repository: Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:12:55,966 - INFO - Fetched 0 contributors for vivimama870/vivi5466
+2024-12-24 13:12:55,966 - INFO - Added repository: vivimama870/vivi5466
+2024-12-24 13:12:55,966 - INFO - Starting processing repository: enesinho32/31enesinho
+2024-12-24 13:12:55,966 - INFO - Fetching contributors for repository: enesinho32/31enesinho
+2024-12-24 13:12:55,968 - INFO - Fetched 0 contributors for chedlibelfguira2018/chedli632
+2024-12-24 13:12:55,968 - INFO - Added repository: chedlibelfguira2018/chedli632
+2024-12-24 13:12:55,968 - INFO - Starting processing repository: SakshiBankar1803/IMAGES
+2024-12-24 13:12:55,968 - INFO - Fetching contributors for repository: SakshiBankar1803/IMAGES
+2024-12-24 13:12:55,974 - INFO - Fetched 1 contributors for rdev/butmyrectangles
+2024-12-24 13:12:55,974 - INFO - Added repository: rdev/butmyrectangles
+2024-12-24 13:12:55,974 - INFO - Starting processing repository: Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:12:55,974 - INFO - Fetching contributors for repository: Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:12:55,980 - INFO - Fetched 0 contributors for sunshinemichealapata/sunshi
+2024-12-24 13:12:55,980 - INFO - Added repository: sunshinemichealapata/sunshi
+2024-12-24 13:12:55,980 - INFO - Starting processing repository: sroycho4/Object_Detection
+2024-12-24 13:12:55,980 - INFO - Fetching contributors for repository: sroycho4/Object_Detection
+2024-12-24 13:12:55,982 - INFO - Fetched 1 contributors for farhang74/feature-space
+2024-12-24 13:12:55,982 - INFO - Added repository: farhang74/feature-space
+2024-12-24 13:12:55,982 - INFO - Starting processing repository: Asma-179/Asma
+2024-12-24 13:12:55,982 - INFO - Fetching contributors for repository: Asma-179/Asma
+2024-12-24 13:12:56,003 - INFO - Fetched 1 contributors for matiasngf/pepito-tracker
+2024-12-24 13:12:56,003 - INFO - Added repository: matiasngf/pepito-tracker
+2024-12-24 13:12:56,003 - INFO - Starting processing repository: XxMordRedxX/Useless
+2024-12-24 13:12:56,004 - INFO - Fetching contributors for repository: XxMordRedxX/Useless
+2024-12-24 13:12:56,008 - INFO - Fetched 1 contributors for zhfei/BubblePopup
+2024-12-24 13:12:56,008 - INFO - Added repository: zhfei/BubblePopup
+2024-12-24 13:12:56,008 - INFO - Starting processing repository: devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:12:56,008 - INFO - Fetching contributors for repository: devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:12:56,016 - INFO - Fetched 1 contributors for 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:12:56,016 - INFO - Added repository: 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:12:56,016 - INFO - Starting processing repository: Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:12:56,016 - INFO - Fetching contributors for repository: Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:12:56,018 - INFO - Fetched 1 contributors for GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:12:56,018 - INFO - Added repository: GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:12:56,018 - INFO - Starting processing repository: jeremyadamsfisher/podcast2podcast
+2024-12-24 13:12:56,018 - INFO - Fetching contributors for repository: jeremyadamsfisher/podcast2podcast
+2024-12-24 13:12:56,286 - INFO - Fetched 1 contributors for Asma-179/Asma
+2024-12-24 13:12:56,286 - INFO - Added repository: Asma-179/Asma
+2024-12-24 13:12:56,286 - INFO - Fetched 2 contributors for Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:12:56,286 - INFO - Added repository: Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:12:56,287 - INFO - Fetched 1 contributors for SakshiBankar1803/IMAGES
+2024-12-24 13:12:56,287 - INFO - Added repository: SakshiBankar1803/IMAGES
+2024-12-24 13:12:56,287 - INFO - Fetched 2 contributors for Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:12:56,287 - INFO - Added repository: Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:12:56,287 - INFO - Fetched 1 contributors for devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:12:56,288 - INFO - Added repository: devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:12:56,288 - INFO - Fetched 1 contributors for enesinho32/31enesinho
+2024-12-24 13:12:56,288 - INFO - Added repository: enesinho32/31enesinho
+2024-12-24 13:12:56,288 - INFO - Fetched 1 contributors for XxMordRedxX/Useless
+2024-12-24 13:12:56,288 - INFO - Added repository: XxMordRedxX/Useless
+2024-12-24 13:12:56,289 - INFO - Fetched 1 contributors for jeremyadamsfisher/podcast2podcast
+2024-12-24 13:12:56,289 - INFO - Added repository: jeremyadamsfisher/podcast2podcast
+2024-12-24 13:12:56,289 - INFO - Fetched 1 contributors for sroycho4/Object_Detection
+2024-12-24 13:12:56,289 - INFO - Added repository: sroycho4/Object_Detection
+2024-12-24 13:12:56,290 - INFO - Starting processing repository: mo7amedaliEbaid/kafka
+2024-12-24 13:12:56,290 - INFO - Fetching contributors for repository: mo7amedaliEbaid/kafka
+2024-12-24 13:12:56,291 - INFO - Starting processing repository: ajsb85/footpattern.ai
+2024-12-24 13:12:56,291 - INFO - Fetching contributors for repository: ajsb85/footpattern.ai
+2024-12-24 13:12:56,292 - INFO - Starting processing repository: wickstudio/System-Information
+2024-12-24 13:12:56,292 - INFO - Fetching contributors for repository: wickstudio/System-Information
+2024-12-24 13:12:56,293 - INFO - Starting processing repository: LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:12:56,293 - INFO - Fetching contributors for repository: LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:12:56,294 - INFO - Starting processing repository: thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:12:56,294 - INFO - Fetching contributors for repository: thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:12:56,294 - INFO - Starting processing repository: adam-younes/calculator
+2024-12-24 13:12:56,294 - INFO - Fetching contributors for repository: adam-younes/calculator
+2024-12-24 13:12:56,295 - INFO - Starting processing repository: DarkMartin18/iw2023ittepic
+2024-12-24 13:12:56,295 - INFO - Fetching contributors for repository: DarkMartin18/iw2023ittepic
+2024-12-24 13:12:56,295 - INFO - Starting processing repository: zuccs/disallow-chatgpt
+2024-12-24 13:12:56,295 - INFO - Fetching contributors for repository: zuccs/disallow-chatgpt
+2024-12-24 13:12:56,296 - INFO - Starting processing repository: morsh99/Resume-1
+2024-12-24 13:12:56,296 - INFO - Fetching contributors for repository: morsh99/Resume-1
+2024-12-24 13:12:56,296 - INFO - Fetched 1 contributors for Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:12:56,297 - INFO - Added repository: Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:12:56,297 - INFO - Starting processing repository: ITurres/Jest-Testing
+2024-12-24 13:12:56,297 - INFO - Fetching contributors for repository: ITurres/Jest-Testing
+2024-12-24 13:12:56,593 - INFO - Fetched 1 contributors for mo7amedaliEbaid/kafka
+2024-12-24 13:12:56,593 - INFO - Added repository: mo7amedaliEbaid/kafka
+2024-12-24 13:12:56,593 - INFO - Fetched 1 contributors for wickstudio/System-Information
+2024-12-24 13:12:56,594 - INFO - Added repository: wickstudio/System-Information
+2024-12-24 13:12:56,594 - INFO - Fetched 4 contributors for LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:12:56,594 - INFO - Added repository: LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:12:56,594 - INFO - Fetched 5 contributors for ajsb85/footpattern.ai
+2024-12-24 13:12:56,594 - INFO - Added repository: ajsb85/footpattern.ai
+2024-12-24 13:12:56,594 - INFO - Fetched 1 contributors for morsh99/Resume-1
+2024-12-24 13:12:56,595 - INFO - Added repository: morsh99/Resume-1
+2024-12-24 13:12:56,595 - INFO - Fetched 1 contributors for adam-younes/calculator
+2024-12-24 13:12:56,595 - INFO - Added repository: adam-younes/calculator
+2024-12-24 13:12:56,595 - INFO - Starting processing repository: davidfp00/Arduino-Hourglass
+2024-12-24 13:12:56,595 - INFO - Fetching contributors for repository: davidfp00/Arduino-Hourglass
+2024-12-24 13:12:56,596 - INFO - Starting processing repository: CogniHack/CogniHack
+2024-12-24 13:12:56,596 - INFO - Fetching contributors for repository: CogniHack/CogniHack
+2024-12-24 13:12:56,596 - INFO - Starting processing repository: extrawest/bank_ui_flutter_challenge
+2024-12-24 13:12:56,597 - INFO - Fetching contributors for repository: extrawest/bank_ui_flutter_challenge
+2024-12-24 13:12:56,597 - INFO - Starting processing repository: betoblid/Fylo_landing_page
+2024-12-24 13:12:56,597 - INFO - Fetching contributors for repository: betoblid/Fylo_landing_page
+2024-12-24 13:12:56,597 - INFO - Starting processing repository: nicewook/gopt
+2024-12-24 13:12:56,597 - INFO - Fetching contributors for repository: nicewook/gopt
+2024-12-24 13:12:56,597 - INFO - Starting processing repository: Sudhaanshuu/CraftFlow
+2024-12-24 13:12:56,597 - INFO - Fetching contributors for repository: Sudhaanshuu/CraftFlow
+2024-12-24 13:12:56,598 - INFO - Fetched 1 contributors for DarkMartin18/iw2023ittepic
+2024-12-24 13:12:56,598 - INFO - Added repository: DarkMartin18/iw2023ittepic
+2024-12-24 13:12:56,598 - INFO - Fetched 1 contributors for zuccs/disallow-chatgpt
+2024-12-24 13:12:56,598 - INFO - Added repository: zuccs/disallow-chatgpt
+2024-12-24 13:12:56,598 - INFO - Fetched 2 contributors for thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:12:56,598 - INFO - Added repository: thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:12:56,599 - INFO - Fetched 1 contributors for ITurres/Jest-Testing
+2024-12-24 13:12:56,599 - INFO - Added repository: ITurres/Jest-Testing
+2024-12-24 13:12:56,599 - INFO - Starting processing repository: Sudhaanshuu/HackerRank
+2024-12-24 13:12:56,599 - INFO - Fetching contributors for repository: Sudhaanshuu/HackerRank
+2024-12-24 13:12:56,599 - INFO - Starting processing repository: Async-House/documentos-asynchub
+2024-12-24 13:12:56,599 - INFO - Fetching contributors for repository: Async-House/documentos-asynchub
+2024-12-24 13:12:56,599 - INFO - Starting processing repository: kailielexx/Space-Shooter-Game
+2024-12-24 13:12:56,599 - INFO - Fetching contributors for repository: kailielexx/Space-Shooter-Game
+2024-12-24 13:12:56,599 - INFO - Starting processing repository: Rhaegar121/Car-Rental-front-end
+2024-12-24 13:12:56,599 - INFO - Fetching contributors for repository: Rhaegar121/Car-Rental-front-end
+2024-12-24 13:12:56,793 - INFO - Fetched 2 contributors for extrawest/bank_ui_flutter_challenge
+2024-12-24 13:12:56,793 - INFO - Added repository: extrawest/bank_ui_flutter_challenge
+2024-12-24 13:12:56,794 - INFO - Fetched 5 contributors for CogniHack/CogniHack
+2024-12-24 13:12:56,794 - INFO - Added repository: CogniHack/CogniHack
+2024-12-24 13:12:56,794 - INFO - Fetched 1 contributors for betoblid/Fylo_landing_page
+2024-12-24 13:12:56,794 - INFO - Added repository: betoblid/Fylo_landing_page
+2024-12-24 13:12:56,810 - INFO - Fetched 5 contributors for Rhaegar121/Car-Rental-front-end
+2024-12-24 13:12:56,811 - INFO - Added repository: Rhaegar121/Car-Rental-front-end
+2024-12-24 13:12:56,811 - INFO - Fetched 1 contributors for nicewook/gopt
+2024-12-24 13:12:56,811 - INFO - Added repository: nicewook/gopt
+2024-12-24 13:12:56,812 - INFO - Fetched 1 contributors for Async-House/documentos-asynchub
+2024-12-24 13:12:56,812 - INFO - Added repository: Async-House/documentos-asynchub
+2024-12-24 13:12:56,812 - INFO - Fetched 1 contributors for Sudhaanshuu/HackerRank
+2024-12-24 13:12:56,812 - INFO - Added repository: Sudhaanshuu/HackerRank
+2024-12-24 13:12:56,817 - INFO - Fetched 1 contributors for davidfp00/Arduino-Hourglass
+2024-12-24 13:12:56,817 - INFO - Added repository: davidfp00/Arduino-Hourglass
+2024-12-24 13:12:56,838 - INFO - Fetched 1 contributors for Sudhaanshuu/CraftFlow
+2024-12-24 13:12:56,838 - INFO - Added repository: Sudhaanshuu/CraftFlow
+2024-12-24 13:12:56,878 - INFO - Fetched 2 contributors for kailielexx/Space-Shooter-Game
+2024-12-24 13:12:56,878 - INFO - Added repository: kailielexx/Space-Shooter-Game
+2024-12-24 13:12:56,878 - INFO - Page 2 processed. Collected 100 repositories.
+2024-12-24 13:12:57,882 - INFO - Selected 100 repositories.
+2024-12-24 13:12:57,885 - INFO - Selected 100 repositories
+2024-12-24 13:12:57,885 - INFO - Starting data collection from 100 repositories
+2024-12-24 13:12:57,886 - INFO - Starting data collection for repository: admiral9200/lets-quiz
+2024-12-24 13:12:57,886 - INFO - Starting to collect commits for repository: admiral9200/lets-quiz
+2024-12-24 13:12:57,887 - INFO - Starting data collection for repository: Michel-Heinz/Audito
+2024-12-24 13:12:57,887 - INFO - Starting to collect commits for repository: Michel-Heinz/Audito
+2024-12-24 13:12:57,888 - INFO - Starting data collection for repository: saria-mohi/JAVA
+2024-12-24 13:12:57,888 - INFO - Starting to collect commits for repository: saria-mohi/JAVA
+2024-12-24 13:12:57,888 - INFO - Starting data collection for repository: gvalverd/MLUCM2223
+2024-12-24 13:12:57,889 - INFO - Starting to collect commits for repository: gvalverd/MLUCM2223
+2024-12-24 13:12:57,889 - INFO - Starting data collection for repository: Badhon7821/react-todo-app
+2024-12-24 13:12:57,889 - INFO - Starting to collect commits for repository: Badhon7821/react-todo-app
+2024-12-24 13:12:57,889 - INFO - Starting data collection for repository: MitkoVtori/ChristmasShop
+2024-12-24 13:12:57,889 - INFO - Starting to collect commits for repository: MitkoVtori/ChristmasShop
+2024-12-24 13:12:57,889 - INFO - Starting data collection for repository: andradeigor/punpuns-portfolio
+2024-12-24 13:12:57,890 - INFO - Starting to collect commits for repository: andradeigor/punpuns-portfolio
+2024-12-24 13:12:57,890 - INFO - Starting data collection for repository: WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:12:57,890 - INFO - Starting to collect commits for repository: WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:12:57,890 - INFO - Starting data collection for repository: snepsnepy/romanian-programming-language
+2024-12-24 13:12:57,890 - INFO - Starting to collect commits for repository: snepsnepy/romanian-programming-language
+2024-12-24 13:12:57,890 - INFO - Starting data collection for repository: noge-labs/kind2lisp
+2024-12-24 13:12:57,890 - INFO - Starting to collect commits for repository: noge-labs/kind2lisp
+2024-12-24 13:12:57,890 - INFO - Starting data collection for repository: SanfordWeber/luckytoadsss
+2024-12-24 13:12:57,891 - INFO - Starting to collect commits for repository: SanfordWeber/luckytoadsss
+2024-12-24 13:12:57,891 - INFO - Starting data collection for repository: lrangell/theme-cycler.nvim
+2024-12-24 13:12:57,891 - INFO - Starting to collect commits for repository: lrangell/theme-cycler.nvim
+2024-12-24 13:12:57,891 - INFO - Starting data collection for repository: KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:12:57,891 - INFO - Starting to collect commits for repository: KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:12:57,891 - INFO - Starting data collection for repository: lmbelo/xml-lexer4delphi
+2024-12-24 13:12:57,891 - INFO - Starting to collect commits for repository: lmbelo/xml-lexer4delphi
+2024-12-24 13:12:57,891 - INFO - Starting data collection for repository: rockstarcoder333/Drum-Classification
+2024-12-24 13:12:57,892 - INFO - Starting to collect commits for repository: rockstarcoder333/Drum-Classification
+2024-12-24 13:12:57,892 - INFO - Starting data collection for repository: linuxandchill/BabyAGIxLangchain
+2024-12-24 13:12:57,892 - INFO - Starting to collect commits for repository: linuxandchill/BabyAGIxLangchain
+2024-12-24 13:12:57,892 - INFO - Starting data collection for repository: Badhon7821/proxima-server
+2024-12-24 13:12:57,892 - INFO - Starting to collect commits for repository: Badhon7821/proxima-server
+2024-12-24 13:12:57,892 - INFO - Starting data collection for repository: pip64/PyDimanify
+2024-12-24 13:12:57,892 - INFO - Starting to collect commits for repository: pip64/PyDimanify
+2024-12-24 13:12:57,892 - INFO - Starting data collection for repository: notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:12:57,892 - INFO - Starting to collect commits for repository: notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:12:57,892 - INFO - Starting data collection for repository: xlab-uiuc/csi-ae
+2024-12-24 13:12:57,892 - INFO - Starting to collect commits for repository: xlab-uiuc/csi-ae
+2024-12-24 13:12:57,893 - INFO - Starting data collection for repository: wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:12:57,893 - INFO - Starting to collect commits for repository: wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:12:57,893 - INFO - Starting data collection for repository: sandhya8109/chelibeti
+2024-12-24 13:12:57,893 - INFO - Starting to collect commits for repository: sandhya8109/chelibeti
+2024-12-24 13:12:57,893 - INFO - Starting data collection for repository: isaacmadeswa/ddsfsd
+2024-12-24 13:12:57,893 - INFO - Starting to collect commits for repository: isaacmadeswa/ddsfsd
+2024-12-24 13:12:57,893 - INFO - Starting data collection for repository: gege5758/jOBSTREET
+2024-12-24 13:12:57,893 - INFO - Starting to collect commits for repository: gege5758/jOBSTREET
+2024-12-24 13:12:57,894 - INFO - Starting data collection for repository: spencer2k19/SwiftUIMapApp
+2024-12-24 13:12:57,894 - INFO - Starting to collect commits for repository: spencer2k19/SwiftUIMapApp
+2024-12-24 13:12:57,895 - INFO - Starting data collection for repository: firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:12:57,895 - INFO - Starting to collect commits for repository: firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:12:57,895 - INFO - Starting data collection for repository: morningior-m0-5/rtos-05
+2024-12-24 13:12:57,895 - INFO - Starting to collect commits for repository: morningior-m0-5/rtos-05
+2024-12-24 13:12:57,895 - INFO - Starting data collection for repository: Zola05408516/Zola
+2024-12-24 13:12:57,895 - INFO - Starting to collect commits for repository: Zola05408516/Zola
+2024-12-24 13:12:57,895 - INFO - Starting data collection for repository: kenyumar/wer
+2024-12-24 13:12:57,895 - INFO - Starting to collect commits for repository: kenyumar/wer
+2024-12-24 13:12:57,895 - INFO - Starting data collection for repository: eth-cscs/SummerUniversity2023
+2024-12-24 13:12:57,895 - INFO - Starting to collect commits for repository: eth-cscs/SummerUniversity2023
+2024-12-24 13:12:57,895 - INFO - Starting data collection for repository: edouardmendi16/edouard
+2024-12-24 13:12:57,895 - INFO - Starting to collect commits for repository: edouardmendi16/edouard
+2024-12-24 13:12:57,895 - INFO - Starting data collection for repository: saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:12:57,895 - INFO - Starting to collect commits for repository: saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:12:57,896 - INFO - Starting data collection for repository: ranaawais4215/45t
+2024-12-24 13:12:57,896 - INFO - Starting to collect commits for repository: ranaawais4215/45t
+2024-12-24 13:12:57,896 - INFO - Starting data collection for repository: hanachan0/hellohana
+2024-12-24 13:12:57,896 - INFO - Starting to collect commits for repository: hanachan0/hellohana
+2024-12-24 13:12:57,896 - INFO - Starting data collection for repository: Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:12:57,896 - INFO - Starting to collect commits for repository: Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:12:57,896 - INFO - Starting data collection for repository: bachittle/FileGPT
+2024-12-24 13:12:57,896 - INFO - Starting to collect commits for repository: bachittle/FileGPT
+2024-12-24 13:12:57,896 - INFO - Starting data collection for repository: vinhtran2385/expert-computing-machine
+2024-12-24 13:12:57,896 - INFO - Starting to collect commits for repository: vinhtran2385/expert-computing-machine
+2024-12-24 13:12:57,896 - INFO - Starting data collection for repository: tiagorbf/indie-twitter-plugin
+2024-12-24 13:12:57,896 - INFO - Starting to collect commits for repository: tiagorbf/indie-twitter-plugin
+2024-12-24 13:12:57,896 - INFO - Starting data collection for repository: shapoco/uart-over-midi
+2024-12-24 13:12:57,896 - INFO - Starting to collect commits for repository: shapoco/uart-over-midi
+2024-12-24 13:12:57,897 - INFO - Starting data collection for repository: quii/learn-clojure-with-tests
+2024-12-24 13:12:57,897 - INFO - Starting to collect commits for repository: quii/learn-clojure-with-tests
+2024-12-24 13:12:57,897 - INFO - Starting data collection for repository: fendouai/babyagi_zh
+2024-12-24 13:12:57,897 - INFO - Starting to collect commits for repository: fendouai/babyagi_zh
+2024-12-24 13:12:57,897 - INFO - Starting data collection for repository: BOWSTRINGHERO/dianthus
+2024-12-24 13:12:57,897 - INFO - Starting to collect commits for repository: BOWSTRINGHERO/dianthus
+2024-12-24 13:12:57,897 - INFO - Starting data collection for repository: MarcoWorms/repo-radar
+2024-12-24 13:12:57,897 - INFO - Starting to collect commits for repository: MarcoWorms/repo-radar
+2024-12-24 13:12:57,897 - INFO - Starting data collection for repository: Kingfisher102/Kingfisher102
+2024-12-24 13:12:57,897 - INFO - Starting to collect commits for repository: Kingfisher102/Kingfisher102
+2024-12-24 13:12:57,898 - INFO - Starting data collection for repository: Raven34152/Raven34152
+2024-12-24 13:12:57,898 - INFO - Starting to collect commits for repository: Raven34152/Raven34152
+2024-12-24 13:12:57,898 - INFO - Starting data collection for repository: uri1001/the-evm-networks-project
+2024-12-24 13:12:57,898 - INFO - Starting to collect commits for repository: uri1001/the-evm-networks-project
+2024-12-24 13:12:57,898 - INFO - Starting data collection for repository: Crow167/Crow167
+2024-12-24 13:12:57,898 - INFO - Starting to collect commits for repository: Crow167/Crow167
+2024-12-24 13:12:57,898 - INFO - Starting data collection for repository: fazt/python-click-tutorial
+2024-12-24 13:12:57,898 - INFO - Starting to collect commits for repository: fazt/python-click-tutorial
+2024-12-24 13:12:57,898 - INFO - Starting data collection for repository: Shubh2-0/Coupling
+2024-12-24 13:12:57,898 - INFO - Starting to collect commits for repository: Shubh2-0/Coupling
+2024-12-24 13:12:57,898 - INFO - Starting data collection for repository: federicaulzurrun/AwesomeBooks
+2024-12-24 13:12:57,898 - INFO - Starting to collect commits for repository: federicaulzurrun/AwesomeBooks
+2024-12-24 13:12:57,898 - INFO - Starting data collection for repository: eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:12:57,898 - INFO - Starting to collect commits for repository: eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:12:57,898 - INFO - Starting data collection for repository: MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:12:57,898 - INFO - Starting to collect commits for repository: MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:12:57,899 - INFO - Starting data collection for repository: chenning0115/spectral_diff_temp
+2024-12-24 13:12:57,899 - INFO - Starting to collect commits for repository: chenning0115/spectral_diff_temp
+2024-12-24 13:12:57,899 - INFO - Starting data collection for repository: cmslee/caseylee-portfolio
+2024-12-24 13:12:57,899 - INFO - Starting to collect commits for repository: cmslee/caseylee-portfolio
+2024-12-24 13:12:57,899 - INFO - Starting data collection for repository: vychodlc/SlunceUI
+2024-12-24 13:12:57,899 - INFO - Starting to collect commits for repository: vychodlc/SlunceUI
+2024-12-24 13:12:57,899 - INFO - Starting data collection for repository: scarey/bass-reactive-leds
+2024-12-24 13:12:57,899 - INFO - Starting to collect commits for repository: scarey/bass-reactive-leds
+2024-12-24 13:12:57,899 - INFO - Starting data collection for repository: pycadd/PycadNewsletter
+2024-12-24 13:12:57,899 - INFO - Starting to collect commits for repository: pycadd/PycadNewsletter
+2024-12-24 13:12:57,899 - INFO - Starting data collection for repository: MathItYT/manim-svg-animations
+2024-12-24 13:12:57,899 - INFO - Starting to collect commits for repository: MathItYT/manim-svg-animations
+2024-12-24 13:12:57,899 - INFO - Starting data collection for repository: philnash/asst
+2024-12-24 13:12:57,899 - INFO - Starting to collect commits for repository: philnash/asst
+2024-12-24 13:12:57,899 - INFO - Starting data collection for repository: prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:12:57,900 - INFO - Starting to collect commits for repository: prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:12:57,900 - INFO - Starting data collection for repository: Clam786/which
+2024-12-24 13:12:57,900 - INFO - Starting to collect commits for repository: Clam786/which
+2024-12-24 13:12:57,900 - INFO - Starting data collection for repository: vivimama870/vivi5466
+2024-12-24 13:12:57,900 - INFO - Starting to collect commits for repository: vivimama870/vivi5466
+2024-12-24 13:12:57,900 - INFO - Starting data collection for repository: chedlibelfguira2018/chedli632
+2024-12-24 13:12:57,900 - INFO - Starting to collect commits for repository: chedlibelfguira2018/chedli632
+2024-12-24 13:12:57,900 - INFO - Starting data collection for repository: rdev/butmyrectangles
+2024-12-24 13:12:57,900 - INFO - Starting to collect commits for repository: rdev/butmyrectangles
+2024-12-24 13:12:57,900 - INFO - Starting data collection for repository: sunshinemichealapata/sunshi
+2024-12-24 13:12:57,900 - INFO - Starting to collect commits for repository: sunshinemichealapata/sunshi
+2024-12-24 13:12:57,900 - INFO - Starting data collection for repository: farhang74/feature-space
+2024-12-24 13:12:57,900 - INFO - Starting to collect commits for repository: farhang74/feature-space
+2024-12-24 13:12:57,901 - INFO - Starting data collection for repository: matiasngf/pepito-tracker
+2024-12-24 13:12:57,901 - INFO - Starting to collect commits for repository: matiasngf/pepito-tracker
+2024-12-24 13:12:57,901 - INFO - Starting data collection for repository: zhfei/BubblePopup
+2024-12-24 13:12:57,901 - INFO - Starting to collect commits for repository: zhfei/BubblePopup
+2024-12-24 13:12:57,901 - INFO - Starting data collection for repository: 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:12:57,901 - INFO - Starting to collect commits for repository: 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:12:57,901 - INFO - Starting data collection for repository: GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:12:57,901 - INFO - Starting to collect commits for repository: GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:12:57,901 - INFO - Starting data collection for repository: Asma-179/Asma
+2024-12-24 13:12:57,901 - INFO - Starting to collect commits for repository: Asma-179/Asma
+2024-12-24 13:12:57,901 - INFO - Starting data collection for repository: Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:12:57,901 - INFO - Starting to collect commits for repository: Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:12:57,901 - INFO - Starting data collection for repository: SakshiBankar1803/IMAGES
+2024-12-24 13:12:57,901 - INFO - Starting to collect commits for repository: SakshiBankar1803/IMAGES
+2024-12-24 13:12:57,902 - INFO - Starting data collection for repository: Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:12:57,902 - INFO - Starting to collect commits for repository: Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:12:57,902 - INFO - Starting data collection for repository: devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:12:57,902 - INFO - Starting to collect commits for repository: devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:12:57,902 - INFO - Starting data collection for repository: enesinho32/31enesinho
+2024-12-24 13:12:57,902 - INFO - Starting to collect commits for repository: enesinho32/31enesinho
+2024-12-24 13:12:57,902 - INFO - Starting data collection for repository: XxMordRedxX/Useless
+2024-12-24 13:12:57,902 - INFO - Starting to collect commits for repository: XxMordRedxX/Useless
+2024-12-24 13:12:57,902 - INFO - Starting data collection for repository: jeremyadamsfisher/podcast2podcast
+2024-12-24 13:12:57,902 - INFO - Starting to collect commits for repository: jeremyadamsfisher/podcast2podcast
+2024-12-24 13:12:57,902 - INFO - Starting data collection for repository: sroycho4/Object_Detection
+2024-12-24 13:12:57,902 - INFO - Starting to collect commits for repository: sroycho4/Object_Detection
+2024-12-24 13:12:57,903 - INFO - Starting data collection for repository: Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:12:57,903 - INFO - Starting to collect commits for repository: Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:12:57,903 - INFO - Starting data collection for repository: mo7amedaliEbaid/kafka
+2024-12-24 13:12:57,903 - INFO - Starting to collect commits for repository: mo7amedaliEbaid/kafka
+2024-12-24 13:12:57,903 - INFO - Starting data collection for repository: wickstudio/System-Information
+2024-12-24 13:12:57,903 - INFO - Starting to collect commits for repository: wickstudio/System-Information
+2024-12-24 13:12:57,903 - INFO - Starting data collection for repository: LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:12:57,903 - INFO - Starting to collect commits for repository: LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:12:57,903 - INFO - Starting data collection for repository: ajsb85/footpattern.ai
+2024-12-24 13:12:57,903 - INFO - Starting to collect commits for repository: ajsb85/footpattern.ai
+2024-12-24 13:12:57,903 - INFO - Starting data collection for repository: morsh99/Resume-1
+2024-12-24 13:12:57,903 - INFO - Starting to collect commits for repository: morsh99/Resume-1
+2024-12-24 13:12:57,903 - INFO - Starting data collection for repository: adam-younes/calculator
+2024-12-24 13:12:57,903 - INFO - Starting to collect commits for repository: adam-younes/calculator
+2024-12-24 13:12:57,904 - INFO - Starting data collection for repository: DarkMartin18/iw2023ittepic
+2024-12-24 13:12:57,904 - INFO - Starting to collect commits for repository: DarkMartin18/iw2023ittepic
+2024-12-24 13:12:57,904 - INFO - Starting data collection for repository: zuccs/disallow-chatgpt
+2024-12-24 13:12:57,904 - INFO - Starting to collect commits for repository: zuccs/disallow-chatgpt
+2024-12-24 13:12:57,904 - INFO - Starting data collection for repository: thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:12:57,904 - INFO - Starting to collect commits for repository: thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:12:57,904 - INFO - Starting data collection for repository: ITurres/Jest-Testing
+2024-12-24 13:12:57,904 - INFO - Starting to collect commits for repository: ITurres/Jest-Testing
+2024-12-24 13:12:57,904 - INFO - Starting data collection for repository: extrawest/bank_ui_flutter_challenge
+2024-12-24 13:12:57,904 - INFO - Starting to collect commits for repository: extrawest/bank_ui_flutter_challenge
+2024-12-24 13:12:57,904 - INFO - Starting data collection for repository: CogniHack/CogniHack
+2024-12-24 13:12:57,904 - INFO - Starting to collect commits for repository: CogniHack/CogniHack
+2024-12-24 13:12:57,904 - INFO - Starting data collection for repository: betoblid/Fylo_landing_page
+2024-12-24 13:12:57,904 - INFO - Starting to collect commits for repository: betoblid/Fylo_landing_page
+2024-12-24 13:12:57,905 - INFO - Starting data collection for repository: Rhaegar121/Car-Rental-front-end
+2024-12-24 13:12:57,905 - INFO - Starting to collect commits for repository: Rhaegar121/Car-Rental-front-end
+2024-12-24 13:12:57,905 - INFO - Starting data collection for repository: nicewook/gopt
+2024-12-24 13:12:57,905 - INFO - Starting to collect commits for repository: nicewook/gopt
+2024-12-24 13:12:57,905 - INFO - Starting data collection for repository: Async-House/documentos-asynchub
+2024-12-24 13:12:57,905 - INFO - Starting to collect commits for repository: Async-House/documentos-asynchub
+2024-12-24 13:12:57,905 - INFO - Starting data collection for repository: Sudhaanshuu/HackerRank
+2024-12-24 13:12:57,905 - INFO - Starting to collect commits for repository: Sudhaanshuu/HackerRank
+2024-12-24 13:12:57,905 - INFO - Starting data collection for repository: davidfp00/Arduino-Hourglass
+2024-12-24 13:12:57,905 - INFO - Starting to collect commits for repository: davidfp00/Arduino-Hourglass
+2024-12-24 13:12:57,905 - INFO - Starting data collection for repository: Sudhaanshuu/CraftFlow
+2024-12-24 13:12:57,905 - INFO - Starting to collect commits for repository: Sudhaanshuu/CraftFlow
+2024-12-24 13:12:57,905 - INFO - Starting data collection for repository: kailielexx/Space-Shooter-Game
+2024-12-24 13:12:57,905 - INFO - Starting to collect commits for repository: kailielexx/Space-Shooter-Game
+2024-12-24 13:12:58,200 - ERROR - Failed to fetch https://api.github.com/repos/edouardmendi16/edouard/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,200 - ERROR - Exception while fetching https://api.github.com/repos/edouardmendi16/edouard/commits: Failed to fetch https://api.github.com/repos/edouardmendi16/edouard/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,200 - ERROR - Failed to fetch commits for repository edouardmendi16/edouard on page 1: Failed to fetch https://api.github.com/repos/edouardmendi16/edouard/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,200 - INFO - Collected 0 commits for repository edouardmendi16/edouard
+2024-12-24 13:12:58,200 - WARNING - No commits found for repository edouardmendi16/edouard
+2024-12-24 13:12:58,201 - INFO - Fetched 1 commits on page 1 for vinhtran2385/expert-computing-machine
+2024-12-24 13:12:58,201 - INFO - Finished collecting commits for vinhtran2385/expert-computing-machine. Total commits: 1
+2024-12-24 13:12:58,201 - INFO - Collected 1 commits for repository vinhtran2385/expert-computing-machine
+2024-12-24 13:12:58,201 - ERROR - Failed to fetch https://api.github.com/repos/morningior-m0-5/rtos-05/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,201 - ERROR - Exception while fetching https://api.github.com/repos/morningior-m0-5/rtos-05/commits: Failed to fetch https://api.github.com/repos/morningior-m0-5/rtos-05/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,201 - ERROR - Failed to fetch commits for repository morningior-m0-5/rtos-05 on page 1: Failed to fetch https://api.github.com/repos/morningior-m0-5/rtos-05/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,202 - INFO - Collected 0 commits for repository morningior-m0-5/rtos-05
+2024-12-24 13:12:58,202 - WARNING - No commits found for repository morningior-m0-5/rtos-05
+2024-12-24 13:12:58,217 - ERROR - Failed to fetch https://api.github.com/repos/vivimama870/vivi5466/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,217 - ERROR - Exception while fetching https://api.github.com/repos/vivimama870/vivi5466/commits: Failed to fetch https://api.github.com/repos/vivimama870/vivi5466/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,217 - ERROR - Failed to fetch commits for repository vivimama870/vivi5466 on page 1: Failed to fetch https://api.github.com/repos/vivimama870/vivi5466/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,219 - INFO - Collected 0 commits for repository vivimama870/vivi5466
+2024-12-24 13:12:58,219 - WARNING - No commits found for repository vivimama870/vivi5466
+2024-12-24 13:12:58,233 - INFO - Fetched 5 commits on page 1 for SakshiBankar1803/IMAGES
+2024-12-24 13:12:58,234 - INFO - Finished collecting commits for SakshiBankar1803/IMAGES. Total commits: 5
+2024-12-24 13:12:58,234 - INFO - Collected 5 commits for repository SakshiBankar1803/IMAGES
+2024-12-24 13:12:58,235 - INFO - Fetched 21 commits on page 1 for zuccs/disallow-chatgpt
+2024-12-24 13:12:58,235 - INFO - Finished collecting commits for zuccs/disallow-chatgpt. Total commits: 21
+2024-12-24 13:12:58,235 - INFO - Collected 21 commits for repository zuccs/disallow-chatgpt
+2024-12-24 13:12:58,239 - INFO - Fetched 30 commits on page 1 for kailielexx/Space-Shooter-Game
+2024-12-24 13:12:58,239 - INFO - Finished collecting commits for kailielexx/Space-Shooter-Game. Total commits: 30
+2024-12-24 13:12:58,239 - INFO - Collected 30 commits for repository kailielexx/Space-Shooter-Game
+2024-12-24 13:12:58,252 - ERROR - Failed to fetch https://api.github.com/repos/sunshinemichealapata/sunshi/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,252 - ERROR - Exception while fetching https://api.github.com/repos/sunshinemichealapata/sunshi/commits: Failed to fetch https://api.github.com/repos/sunshinemichealapata/sunshi/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,252 - ERROR - Failed to fetch commits for repository sunshinemichealapata/sunshi on page 1: Failed to fetch https://api.github.com/repos/sunshinemichealapata/sunshi/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,252 - INFO - Collected 0 commits for repository sunshinemichealapata/sunshi
+2024-12-24 13:12:58,253 - WARNING - No commits found for repository sunshinemichealapata/sunshi
+2024-12-24 13:12:58,257 - INFO - Fetched 12 commits on page 1 for Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:12:58,257 - INFO - Finished collecting commits for Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation. Total commits: 12
+2024-12-24 13:12:58,257 - INFO - Collected 12 commits for repository Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:12:58,266 - INFO - Fetched 26 commits on page 1 for zhfei/BubblePopup
+2024-12-24 13:12:58,266 - INFO - Finished collecting commits for zhfei/BubblePopup. Total commits: 26
+2024-12-24 13:12:58,266 - INFO - Collected 26 commits for repository zhfei/BubblePopup
+2024-12-24 13:12:58,266 - INFO - Fetched 2 commits on page 1 for noge-labs/kind2lisp
+2024-12-24 13:12:58,266 - INFO - Finished collecting commits for noge-labs/kind2lisp. Total commits: 2
+2024-12-24 13:12:58,266 - INFO - Collected 2 commits for repository noge-labs/kind2lisp
+2024-12-24 13:12:58,267 - ERROR - Failed to fetch https://api.github.com/repos/chedlibelfguira2018/chedli632/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,267 - ERROR - Exception while fetching https://api.github.com/repos/chedlibelfguira2018/chedli632/commits: Failed to fetch https://api.github.com/repos/chedlibelfguira2018/chedli632/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,267 - ERROR - Failed to fetch commits for repository chedlibelfguira2018/chedli632 on page 1: Failed to fetch https://api.github.com/repos/chedlibelfguira2018/chedli632/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,268 - INFO - Collected 0 commits for repository chedlibelfguira2018/chedli632
+2024-12-24 13:12:58,268 - WARNING - No commits found for repository chedlibelfguira2018/chedli632
+2024-12-24 13:12:58,269 - INFO - Fetched 11 commits on page 1 for thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:12:58,269 - INFO - Finished collecting commits for thpoiani/dio-international-acceleration-kafka. Total commits: 11
+2024-12-24 13:12:58,269 - INFO - Collected 11 commits for repository thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:12:58,273 - INFO - Fetched 46 commits on page 1 for MarcoWorms/repo-radar
+2024-12-24 13:12:58,273 - INFO - Finished collecting commits for MarcoWorms/repo-radar. Total commits: 46
+2024-12-24 13:12:58,273 - INFO - Collected 46 commits for repository MarcoWorms/repo-radar
+2024-12-24 13:12:58,277 - INFO - Fetched 2 commits on page 1 for notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:12:58,277 - INFO - Finished collecting commits for notwld/lab-exam-practice-react-dotnet. Total commits: 2
+2024-12-24 13:12:58,277 - INFO - Collected 2 commits for repository notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:12:58,277 - INFO - Fetched 1 commits on page 1 for SanfordWeber/luckytoadsss
+2024-12-24 13:12:58,277 - INFO - Finished collecting commits for SanfordWeber/luckytoadsss. Total commits: 1
+2024-12-24 13:12:58,277 - INFO - Collected 1 commits for repository SanfordWeber/luckytoadsss
+2024-12-24 13:12:58,279 - INFO - Fetched 3 commits on page 1 for sroycho4/Object_Detection
+2024-12-24 13:12:58,279 - INFO - Finished collecting commits for sroycho4/Object_Detection. Total commits: 3
+2024-12-24 13:12:58,279 - INFO - Collected 3 commits for repository sroycho4/Object_Detection
+2024-12-24 13:12:58,282 - INFO - Fetched 17 commits on page 1 for lrangell/theme-cycler.nvim
+2024-12-24 13:12:58,282 - INFO - Finished collecting commits for lrangell/theme-cycler.nvim. Total commits: 17
+2024-12-24 13:12:58,282 - INFO - Collected 17 commits for repository lrangell/theme-cycler.nvim
+2024-12-24 13:12:58,288 - INFO - Fetched 13 commits on page 1 for adam-younes/calculator
+2024-12-24 13:12:58,288 - INFO - Finished collecting commits for adam-younes/calculator. Total commits: 13
+2024-12-24 13:12:58,288 - INFO - Collected 13 commits for repository adam-younes/calculator
+2024-12-24 13:12:58,292 - INFO - Fetched 44 commits on page 1 for nicewook/gopt
+2024-12-24 13:12:58,292 - INFO - Finished collecting commits for nicewook/gopt. Total commits: 44
+2024-12-24 13:12:58,292 - INFO - Collected 44 commits for repository nicewook/gopt
+2024-12-24 13:12:58,293 - INFO - Fetched 2 commits on page 1 for Async-House/documentos-asynchub
+2024-12-24 13:12:58,293 - INFO - Finished collecting commits for Async-House/documentos-asynchub. Total commits: 2
+2024-12-24 13:12:58,293 - INFO - Collected 2 commits for repository Async-House/documentos-asynchub
+2024-12-24 13:12:58,293 - ERROR - Failed to fetch https://api.github.com/repos/Kingfisher102/Kingfisher102/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,293 - ERROR - Exception while fetching https://api.github.com/repos/Kingfisher102/Kingfisher102/commits: Failed to fetch https://api.github.com/repos/Kingfisher102/Kingfisher102/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,293 - ERROR - Failed to fetch commits for repository Kingfisher102/Kingfisher102 on page 1: Failed to fetch https://api.github.com/repos/Kingfisher102/Kingfisher102/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,294 - INFO - Collected 0 commits for repository Kingfisher102/Kingfisher102
+2024-12-24 13:12:58,294 - WARNING - No commits found for repository Kingfisher102/Kingfisher102
+2024-12-24 13:12:58,294 - INFO - Fetched 3 commits on page 1 for philnash/asst
+2024-12-24 13:12:58,294 - INFO - Finished collecting commits for philnash/asst. Total commits: 3
+2024-12-24 13:12:58,294 - INFO - Collected 3 commits for repository philnash/asst
+2024-12-24 13:12:58,295 - ERROR - Failed to fetch https://api.github.com/repos/Clam786/which/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,295 - ERROR - Exception while fetching https://api.github.com/repos/Clam786/which/commits: Failed to fetch https://api.github.com/repos/Clam786/which/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,295 - ERROR - Failed to fetch commits for repository Clam786/which on page 1: Failed to fetch https://api.github.com/repos/Clam786/which/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,295 - INFO - Collected 0 commits for repository Clam786/which
+2024-12-24 13:12:58,295 - WARNING - No commits found for repository Clam786/which
+2024-12-24 13:12:58,305 - INFO - Fetched 1 commits on page 1 for sandhya8109/chelibeti
+2024-12-24 13:12:58,305 - INFO - Finished collecting commits for sandhya8109/chelibeti. Total commits: 1
+2024-12-24 13:12:58,305 - INFO - Collected 1 commits for repository sandhya8109/chelibeti
+2024-12-24 13:12:58,306 - INFO - Fetched 8 commits on page 1 for spencer2k19/SwiftUIMapApp
+2024-12-24 13:12:58,306 - INFO - Finished collecting commits for spencer2k19/SwiftUIMapApp. Total commits: 8
+2024-12-24 13:12:58,306 - INFO - Collected 8 commits for repository spencer2k19/SwiftUIMapApp
+2024-12-24 13:12:58,311 - INFO - Fetched 18 commits on page 1 for snepsnepy/romanian-programming-language
+2024-12-24 13:12:58,312 - INFO - Finished collecting commits for snepsnepy/romanian-programming-language. Total commits: 18
+2024-12-24 13:12:58,312 - INFO - Collected 18 commits for repository snepsnepy/romanian-programming-language
+2024-12-24 13:12:58,316 - ERROR - Failed to fetch https://api.github.com/repos/Raven34152/Raven34152/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,316 - ERROR - Exception while fetching https://api.github.com/repos/Raven34152/Raven34152/commits: Failed to fetch https://api.github.com/repos/Raven34152/Raven34152/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,316 - ERROR - Failed to fetch commits for repository Raven34152/Raven34152 on page 1: Failed to fetch https://api.github.com/repos/Raven34152/Raven34152/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,317 - INFO - Collected 0 commits for repository Raven34152/Raven34152
+2024-12-24 13:12:58,317 - WARNING - No commits found for repository Raven34152/Raven34152
+2024-12-24 13:12:58,317 - INFO - Fetched 1 commits on page 1 for enesinho32/31enesinho
+2024-12-24 13:12:58,317 - INFO - Finished collecting commits for enesinho32/31enesinho. Total commits: 1
+2024-12-24 13:12:58,317 - INFO - Collected 1 commits for repository enesinho32/31enesinho
+2024-12-24 13:12:58,323 - INFO - Fetched 73 commits on page 1 for CogniHack/CogniHack
+2024-12-24 13:12:58,323 - INFO - Finished collecting commits for CogniHack/CogniHack. Total commits: 73
+2024-12-24 13:12:58,323 - INFO - Collected 73 commits for repository CogniHack/CogniHack
+2024-12-24 13:12:58,328 - INFO - Fetched 15 commits on page 1 for Badhon7821/proxima-server
+2024-12-24 13:12:58,328 - INFO - Finished collecting commits for Badhon7821/proxima-server. Total commits: 15
+2024-12-24 13:12:58,328 - INFO - Collected 15 commits for repository Badhon7821/proxima-server
+2024-12-24 13:12:58,328 - INFO - Fetched 2 commits on page 1 for scarey/bass-reactive-leds
+2024-12-24 13:12:58,328 - INFO - Finished collecting commits for scarey/bass-reactive-leds. Total commits: 2
+2024-12-24 13:12:58,328 - INFO - Collected 2 commits for repository scarey/bass-reactive-leds
+2024-12-24 13:12:58,337 - INFO - Fetched 2 commits on page 1 for rockstarcoder333/Drum-Classification
+2024-12-24 13:12:58,338 - INFO - Finished collecting commits for rockstarcoder333/Drum-Classification. Total commits: 2
+2024-12-24 13:12:58,338 - INFO - Collected 2 commits for repository rockstarcoder333/Drum-Classification
+2024-12-24 13:12:58,341 - INFO - Fetched 14 commits on page 1 for bachittle/FileGPT
+2024-12-24 13:12:58,341 - INFO - Finished collecting commits for bachittle/FileGPT. Total commits: 14
+2024-12-24 13:12:58,341 - INFO - Collected 14 commits for repository bachittle/FileGPT
+2024-12-24 13:12:58,350 - INFO - Fetched 2 commits on page 1 for rdev/butmyrectangles
+2024-12-24 13:12:58,350 - INFO - Finished collecting commits for rdev/butmyrectangles. Total commits: 2
+2024-12-24 13:12:58,351 - INFO - Collected 2 commits for repository rdev/butmyrectangles
+2024-12-24 13:12:58,375 - INFO - Fetched 2 commits on page 1 for Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:12:58,375 - INFO - Finished collecting commits for Datastory-CN/DataStoryLLMBenchmark. Total commits: 2
+2024-12-24 13:12:58,375 - INFO - Collected 2 commits for repository Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:12:58,376 - INFO - Fetched 19 commits on page 1 for BOWSTRINGHERO/dianthus
+2024-12-24 13:12:58,376 - INFO - Finished collecting commits for BOWSTRINGHERO/dianthus. Total commits: 19
+2024-12-24 13:12:58,376 - INFO - Collected 19 commits for repository BOWSTRINGHERO/dianthus
+2024-12-24 13:12:58,380 - INFO - Fetched 14 commits on page 1 for Shubh2-0/Coupling
+2024-12-24 13:12:58,380 - INFO - Finished collecting commits for Shubh2-0/Coupling. Total commits: 14
+2024-12-24 13:12:58,380 - INFO - Collected 14 commits for repository Shubh2-0/Coupling
+2024-12-24 13:12:58,382 - INFO - Fetched 30 commits on page 1 for xlab-uiuc/csi-ae
+2024-12-24 13:12:58,382 - INFO - Finished collecting commits for xlab-uiuc/csi-ae. Total commits: 30
+2024-12-24 13:12:58,382 - INFO - Collected 30 commits for repository xlab-uiuc/csi-ae
+2024-12-24 13:12:58,382 - ERROR - Failed to fetch https://api.github.com/repos/ranaawais4215/45t/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,382 - ERROR - Exception while fetching https://api.github.com/repos/ranaawais4215/45t/commits: Failed to fetch https://api.github.com/repos/ranaawais4215/45t/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,382 - ERROR - Failed to fetch commits for repository ranaawais4215/45t on page 1: Failed to fetch https://api.github.com/repos/ranaawais4215/45t/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,383 - INFO - Collected 0 commits for repository ranaawais4215/45t
+2024-12-24 13:12:58,383 - WARNING - No commits found for repository ranaawais4215/45t
+2024-12-24 13:12:58,384 - INFO - Fetched 38 commits on page 1 for eth-cscs/SummerUniversity2023
+2024-12-24 13:12:58,384 - INFO - Finished collecting commits for eth-cscs/SummerUniversity2023. Total commits: 38
+2024-12-24 13:12:58,384 - INFO - Collected 38 commits for repository eth-cscs/SummerUniversity2023
+2024-12-24 13:12:58,385 - INFO - Fetched 13 commits on page 1 for ITurres/Jest-Testing
+2024-12-24 13:12:58,385 - INFO - Finished collecting commits for ITurres/Jest-Testing. Total commits: 13
+2024-12-24 13:12:58,385 - INFO - Collected 13 commits for repository ITurres/Jest-Testing
+2024-12-24 13:12:58,386 - INFO - Fetched 23 commits on page 1 for vychodlc/SlunceUI
+2024-12-24 13:12:58,386 - INFO - Finished collecting commits for vychodlc/SlunceUI. Total commits: 23
+2024-12-24 13:12:58,386 - INFO - Collected 23 commits for repository vychodlc/SlunceUI
+2024-12-24 13:12:58,387 - INFO - Fetched 7 commits on page 1 for fendouai/babyagi_zh
+2024-12-24 13:12:58,387 - INFO - Finished collecting commits for fendouai/babyagi_zh. Total commits: 7
+2024-12-24 13:12:58,387 - INFO - Collected 7 commits for repository fendouai/babyagi_zh
+2024-12-24 13:12:58,387 - INFO - Fetched 2 commits on page 1 for chenning0115/spectral_diff_temp
+2024-12-24 13:12:58,387 - INFO - Finished collecting commits for chenning0115/spectral_diff_temp. Total commits: 2
+2024-12-24 13:12:58,387 - INFO - Collected 2 commits for repository chenning0115/spectral_diff_temp
+2024-12-24 13:12:58,387 - ERROR - Failed to fetch https://api.github.com/repos/Crow167/Crow167/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,387 - ERROR - Exception while fetching https://api.github.com/repos/Crow167/Crow167/commits: Failed to fetch https://api.github.com/repos/Crow167/Crow167/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,388 - ERROR - Failed to fetch commits for repository Crow167/Crow167 on page 1: Failed to fetch https://api.github.com/repos/Crow167/Crow167/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,388 - INFO - Collected 0 commits for repository Crow167/Crow167
+2024-12-24 13:12:58,389 - WARNING - No commits found for repository Crow167/Crow167
+2024-12-24 13:12:58,391 - INFO - Fetched 8 commits on page 1 for Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:12:58,391 - INFO - Finished collecting commits for Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists. Total commits: 8
+2024-12-24 13:12:58,391 - INFO - Collected 8 commits for repository Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:12:58,399 - ERROR - Failed to fetch https://api.github.com/repos/hanachan0/hellohana/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,399 - ERROR - Exception while fetching https://api.github.com/repos/hanachan0/hellohana/commits: Failed to fetch https://api.github.com/repos/hanachan0/hellohana/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,399 - ERROR - Failed to fetch commits for repository hanachan0/hellohana on page 1: Failed to fetch https://api.github.com/repos/hanachan0/hellohana/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,400 - INFO - Collected 0 commits for repository hanachan0/hellohana
+2024-12-24 13:12:58,400 - WARNING - No commits found for repository hanachan0/hellohana
+2024-12-24 13:12:58,402 - ERROR - Failed to fetch https://api.github.com/repos/kenyumar/wer/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,402 - ERROR - Exception while fetching https://api.github.com/repos/kenyumar/wer/commits: Failed to fetch https://api.github.com/repos/kenyumar/wer/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,402 - ERROR - Failed to fetch commits for repository kenyumar/wer on page 1: Failed to fetch https://api.github.com/repos/kenyumar/wer/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,402 - INFO - Collected 0 commits for repository kenyumar/wer
+2024-12-24 13:12:58,402 - WARNING - No commits found for repository kenyumar/wer
+2024-12-24 13:12:58,412 - INFO - Fetched 37 commits on page 1 for quii/learn-clojure-with-tests
+2024-12-24 13:12:58,412 - INFO - Finished collecting commits for quii/learn-clojure-with-tests. Total commits: 37
+2024-12-24 13:12:58,412 - INFO - Collected 37 commits for repository quii/learn-clojure-with-tests
+2024-12-24 13:12:58,413 - INFO - Fetched 3 commits on page 1 for WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:12:58,413 - INFO - Finished collecting commits for WobbegangTassel/booze-your-own-adventure. Total commits: 3
+2024-12-24 13:12:58,413 - INFO - Collected 3 commits for repository WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:12:58,415 - INFO - Fetched 15 commits on page 1 for eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:12:58,415 - INFO - Finished collecting commits for eduardovirtual/Projeto-Loja-de-Informatica. Total commits: 15
+2024-12-24 13:12:58,415 - INFO - Collected 15 commits for repository eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:12:58,415 - INFO - Fetched 9 commits on page 1 for gvalverd/MLUCM2223
+2024-12-24 13:12:58,415 - INFO - Finished collecting commits for gvalverd/MLUCM2223. Total commits: 9
+2024-12-24 13:12:58,416 - INFO - Collected 9 commits for repository gvalverd/MLUCM2223
+2024-12-24 13:12:58,416 - INFO - Fetched 5 commits on page 1 for betoblid/Fylo_landing_page
+2024-12-24 13:12:58,416 - INFO - Finished collecting commits for betoblid/Fylo_landing_page. Total commits: 5
+2024-12-24 13:12:58,416 - INFO - Collected 5 commits for repository betoblid/Fylo_landing_page
+2024-12-24 13:12:58,419 - INFO - Fetched 1 commits on page 1 for linuxandchill/BabyAGIxLangchain
+2024-12-24 13:12:58,420 - INFO - Finished collecting commits for linuxandchill/BabyAGIxLangchain. Total commits: 1
+2024-12-24 13:12:58,420 - INFO - Collected 1 commits for repository linuxandchill/BabyAGIxLangchain
+2024-12-24 13:12:58,421 - INFO - Fetched 2 commits on page 1 for GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:12:58,421 - INFO - Finished collecting commits for GillCleeren/CleanArchitectureFirstRowTickets. Total commits: 2
+2024-12-24 13:12:58,421 - INFO - Collected 2 commits for repository GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:12:58,422 - INFO - Fetched 1 commits on page 1 for Sudhaanshuu/HackerRank
+2024-12-24 13:12:58,422 - INFO - Finished collecting commits for Sudhaanshuu/HackerRank. Total commits: 1
+2024-12-24 13:12:58,422 - INFO - Collected 1 commits for repository Sudhaanshuu/HackerRank
+2024-12-24 13:12:58,424 - INFO - Fetched 72 commits on page 1 for KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:12:58,424 - INFO - Finished collecting commits for KNowledgeOnWebScale/solid-authentication-browser-extension. Total commits: 72
+2024-12-24 13:12:58,424 - INFO - Collected 72 commits for repository KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:12:58,425 - ERROR - Failed to fetch https://api.github.com/repos/Zola05408516/Zola/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,425 - ERROR - Exception while fetching https://api.github.com/repos/Zola05408516/Zola/commits: Failed to fetch https://api.github.com/repos/Zola05408516/Zola/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,425 - ERROR - Failed to fetch commits for repository Zola05408516/Zola on page 1: Failed to fetch https://api.github.com/repos/Zola05408516/Zola/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,426 - INFO - Collected 0 commits for repository Zola05408516/Zola
+2024-12-24 13:12:58,426 - WARNING - No commits found for repository Zola05408516/Zola
+2024-12-24 13:12:58,435 - INFO - Fetched 18 commits on page 1 for extrawest/bank_ui_flutter_challenge
+2024-12-24 13:12:58,435 - INFO - Finished collecting commits for extrawest/bank_ui_flutter_challenge. Total commits: 18
+2024-12-24 13:12:58,435 - INFO - Collected 18 commits for repository extrawest/bank_ui_flutter_challenge
+2024-12-24 13:12:58,437 - INFO - Fetched 52 commits on page 1 for MathItYT/manim-svg-animations
+2024-12-24 13:12:58,437 - INFO - Finished collecting commits for MathItYT/manim-svg-animations. Total commits: 52
+2024-12-24 13:12:58,437 - INFO - Collected 52 commits for repository MathItYT/manim-svg-animations
+2024-12-24 13:12:58,443 - INFO - Fetched 3 commits on page 1 for XxMordRedxX/Useless
+2024-12-24 13:12:58,444 - INFO - Finished collecting commits for XxMordRedxX/Useless. Total commits: 3
+2024-12-24 13:12:58,444 - INFO - Collected 3 commits for repository XxMordRedxX/Useless
+2024-12-24 13:12:58,444 - INFO - Fetched 8 commits on page 1 for Michel-Heinz/Audito
+2024-12-24 13:12:58,444 - INFO - Finished collecting commits for Michel-Heinz/Audito. Total commits: 8
+2024-12-24 13:12:58,444 - INFO - Collected 8 commits for repository Michel-Heinz/Audito
+2024-12-24 13:12:58,445 - INFO - Fetched 4 commits on page 1 for tiagorbf/indie-twitter-plugin
+2024-12-24 13:12:58,445 - INFO - Finished collecting commits for tiagorbf/indie-twitter-plugin. Total commits: 4
+2024-12-24 13:12:58,445 - INFO - Collected 4 commits for repository tiagorbf/indie-twitter-plugin
+2024-12-24 13:12:58,446 - INFO - Fetched 4 commits on page 1 for wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:12:58,446 - INFO - Finished collecting commits for wavestone-cdt/bhasia23-opcuhack. Total commits: 4
+2024-12-24 13:12:58,446 - INFO - Collected 4 commits for repository wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:12:58,451 - INFO - Fetched 16 commits on page 1 for lmbelo/xml-lexer4delphi
+2024-12-24 13:12:58,451 - INFO - Finished collecting commits for lmbelo/xml-lexer4delphi. Total commits: 16
+2024-12-24 13:12:58,451 - INFO - Collected 16 commits for repository lmbelo/xml-lexer4delphi
+2024-12-24 13:12:58,452 - INFO - Fetched 11 commits on page 1 for devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:12:58,452 - INFO - Finished collecting commits for devmrwor/Laravel-Ecommerce-Backend. Total commits: 11
+2024-12-24 13:12:58,452 - INFO - Collected 11 commits for repository devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:12:58,453 - INFO - Fetched 17 commits on page 1 for DarkMartin18/iw2023ittepic
+2024-12-24 13:12:58,453 - INFO - Finished collecting commits for DarkMartin18/iw2023ittepic. Total commits: 17
+2024-12-24 13:12:58,453 - INFO - Collected 17 commits for repository DarkMartin18/iw2023ittepic
+2024-12-24 13:12:58,453 - INFO - Fetched detailed data for 1 commits in repository vinhtran2385/expert-computing-machine
+2024-12-24 13:12:58,453 - INFO - Starting to compute metrics for developers
+2024-12-24 13:12:58,454 - INFO - Metrics for vinhtran2385vu949275940@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:12:58,454 - INFO - Completed computing metrics for developers
+2024-12-24 13:12:58,454 - INFO - Data collection and processing for vinhtran2385/expert-computing-machine completed
+2024-12-24 13:12:58,455 - INFO - Fetched 36 commits on page 1 for federicaulzurrun/AwesomeBooks
+2024-12-24 13:12:58,455 - INFO - Finished collecting commits for federicaulzurrun/AwesomeBooks. Total commits: 36
+2024-12-24 13:12:58,455 - INFO - Collected 36 commits for repository federicaulzurrun/AwesomeBooks
+2024-12-24 13:12:58,457 - INFO - Fetched 37 commits on page 1 for mo7amedaliEbaid/kafka
+2024-12-24 13:12:58,457 - INFO - Finished collecting commits for mo7amedaliEbaid/kafka. Total commits: 37
+2024-12-24 13:12:58,457 - INFO - Collected 37 commits for repository mo7amedaliEbaid/kafka
+2024-12-24 13:12:58,473 - INFO - Fetched 4 commits on page 1 for davidfp00/Arduino-Hourglass
+2024-12-24 13:12:58,474 - INFO - Finished collecting commits for davidfp00/Arduino-Hourglass. Total commits: 4
+2024-12-24 13:12:58,474 - INFO - Collected 4 commits for repository davidfp00/Arduino-Hourglass
+2024-12-24 13:12:58,475 - INFO - Fetched 27 commits on page 1 for uri1001/the-evm-networks-project
+2024-12-24 13:12:58,475 - INFO - Finished collecting commits for uri1001/the-evm-networks-project. Total commits: 27
+2024-12-24 13:12:58,475 - INFO - Collected 27 commits for repository uri1001/the-evm-networks-project
+2024-12-24 13:12:58,494 - INFO - Fetched 4 commits on page 1 for MitkoVtori/ChristmasShop
+2024-12-24 13:12:58,494 - INFO - Finished collecting commits for MitkoVtori/ChristmasShop. Total commits: 4
+2024-12-24 13:12:58,495 - INFO - Collected 4 commits for repository MitkoVtori/ChristmasShop
+2024-12-24 13:12:58,495 - INFO - Fetched 1 commits on page 1 for gege5758/jOBSTREET
+2024-12-24 13:12:58,496 - INFO - Finished collecting commits for gege5758/jOBSTREET. Total commits: 1
+2024-12-24 13:12:58,496 - INFO - Collected 1 commits for repository gege5758/jOBSTREET
+2024-12-24 13:12:58,500 - INFO - Fetched 31 commits on page 1 for Sudhaanshuu/CraftFlow
+2024-12-24 13:12:58,500 - INFO - Finished collecting commits for Sudhaanshuu/CraftFlow. Total commits: 31
+2024-12-24 13:12:58,500 - INFO - Collected 31 commits for repository Sudhaanshuu/CraftFlow
+2024-12-24 13:12:58,511 - INFO - Fetched 26 commits on page 1 for pycadd/PycadNewsletter
+2024-12-24 13:12:58,512 - INFO - Finished collecting commits for pycadd/PycadNewsletter. Total commits: 26
+2024-12-24 13:12:58,512 - INFO - Collected 26 commits for repository pycadd/PycadNewsletter
+2024-12-24 13:12:58,523 - INFO - Fetched 100 commits on page 1 for LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:12:58,527 - INFO - Fetched 100 commits on page 1 for Rhaegar121/Car-Rental-front-end
+2024-12-24 13:12:58,528 - INFO - Fetched 4 commits on page 1 for wickstudio/System-Information
+2024-12-24 13:12:58,528 - INFO - Finished collecting commits for wickstudio/System-Information. Total commits: 4
+2024-12-24 13:12:58,528 - INFO - Collected 4 commits for repository wickstudio/System-Information
+2024-12-24 13:12:58,546 - INFO - Fetched 27 commits on page 1 for andradeigor/punpuns-portfolio
+2024-12-24 13:12:58,546 - INFO - Finished collecting commits for andradeigor/punpuns-portfolio. Total commits: 27
+2024-12-24 13:12:58,546 - INFO - Collected 27 commits for repository andradeigor/punpuns-portfolio
+2024-12-24 13:12:58,551 - INFO - Fetched detailed data for 5 commits in repository SakshiBankar1803/IMAGES
+2024-12-24 13:12:58,551 - INFO - Starting to compute metrics for developers
+2024-12-24 13:12:58,551 - INFO - Metrics for SakshiBankar1803@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:12:58,551 - INFO - Completed computing metrics for developers
+2024-12-24 13:12:58,551 - INFO - Data collection and processing for SakshiBankar1803/IMAGES completed
+2024-12-24 13:12:58,557 - INFO - Fetched 3 commits on page 1 for firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:12:58,557 - INFO - Finished collecting commits for firjfijr-m5-2/auto-green-m5-2. Total commits: 3
+2024-12-24 13:12:58,558 - INFO - Collected 3 commits for repository firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:12:58,561 - INFO - Fetched 11 commits on page 1 for morsh99/Resume-1
+2024-12-24 13:12:58,561 - INFO - Finished collecting commits for morsh99/Resume-1. Total commits: 11
+2024-12-24 13:12:58,561 - INFO - Collected 11 commits for repository morsh99/Resume-1
+2024-12-24 13:12:58,595 - ERROR - Failed to fetch https://api.github.com/repos/isaacmadeswa/ddsfsd/commits: Status 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,595 - ERROR - Exception while fetching https://api.github.com/repos/isaacmadeswa/ddsfsd/commits: Failed to fetch https://api.github.com/repos/isaacmadeswa/ddsfsd/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,595 - ERROR - Failed to fetch commits for repository isaacmadeswa/ddsfsd on page 1: Failed to fetch https://api.github.com/repos/isaacmadeswa/ddsfsd/commits: 409 - {"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/commits/commits#list-commits","status":"409"}
+2024-12-24 13:12:58,596 - INFO - Collected 0 commits for repository isaacmadeswa/ddsfsd
+2024-12-24 13:12:58,596 - WARNING - No commits found for repository isaacmadeswa/ddsfsd
+2024-12-24 13:12:58,623 - INFO - Fetched 5 commits on page 1 for MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:12:58,624 - INFO - Finished collecting commits for MussieTeka/Bootstrap-Porfolio. Total commits: 5
+2024-12-24 13:12:58,624 - INFO - Collected 5 commits for repository MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:12:58,663 - INFO - Fetched 39 commits on page 1 for ajsb85/footpattern.ai
+2024-12-24 13:12:58,663 - INFO - Finished collecting commits for ajsb85/footpattern.ai. Total commits: 39
+2024-12-24 13:12:58,664 - INFO - Collected 39 commits for repository ajsb85/footpattern.ai
+2024-12-24 13:12:58,670 - INFO - Fetched 4 commits on page 1 for saria-mohi/JAVA
+2024-12-24 13:12:58,670 - INFO - Finished collecting commits for saria-mohi/JAVA. Total commits: 4
+2024-12-24 13:12:58,670 - INFO - Collected 4 commits for repository saria-mohi/JAVA
+2024-12-24 13:12:58,712 - INFO - Fetched 17 commits on page 1 for Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:12:58,712 - INFO - Finished collecting commits for Hoaru/Black-Friday-Flash-Sale-Website. Total commits: 17
+2024-12-24 13:12:58,712 - INFO - Collected 17 commits for repository Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:12:58,728 - INFO - Fetched 58 commits on page 1 for jeremyadamsfisher/podcast2podcast
+2024-12-24 13:12:58,728 - INFO - Finished collecting commits for jeremyadamsfisher/podcast2podcast. Total commits: 58
+2024-12-24 13:12:58,729 - INFO - Collected 58 commits for repository jeremyadamsfisher/podcast2podcast
+2024-12-24 13:12:58,741 - INFO - Fetched 14 commits on page 1 for matiasngf/pepito-tracker
+2024-12-24 13:12:58,741 - INFO - Finished collecting commits for matiasngf/pepito-tracker. Total commits: 14
+2024-12-24 13:12:58,741 - INFO - Collected 14 commits for repository matiasngf/pepito-tracker
+2024-12-24 13:12:58,768 - INFO - Fetched 37 commits on page 1 for pip64/PyDimanify
+2024-12-24 13:12:58,768 - INFO - Finished collecting commits for pip64/PyDimanify. Total commits: 37
+2024-12-24 13:12:58,768 - INFO - Collected 37 commits for repository pip64/PyDimanify
+2024-12-24 13:12:58,794 - INFO - Fetched 3 commits on page 1 for Asma-179/Asma
+2024-12-24 13:12:58,794 - INFO - Finished collecting commits for Asma-179/Asma. Total commits: 3
+2024-12-24 13:12:58,794 - INFO - Collected 3 commits for repository Asma-179/Asma
+2024-12-24 13:12:58,842 - INFO - Fetched 20 commits on page 1 for cmslee/caseylee-portfolio
+2024-12-24 13:12:58,842 - INFO - Finished collecting commits for cmslee/caseylee-portfolio. Total commits: 20
+2024-12-24 13:12:58,842 - INFO - Collected 20 commits for repository cmslee/caseylee-portfolio
+2024-12-24 13:12:58,848 - INFO - Fetched 3 commits on page 1 for fazt/python-click-tutorial
+2024-12-24 13:12:58,848 - INFO - Finished collecting commits for fazt/python-click-tutorial. Total commits: 3
+2024-12-24 13:12:58,849 - INFO - Collected 3 commits for repository fazt/python-click-tutorial
+2024-12-24 13:12:58,851 - INFO - Fetched 8 commits on page 1 for shapoco/uart-over-midi
+2024-12-24 13:12:58,851 - INFO - Finished collecting commits for shapoco/uart-over-midi. Total commits: 8
+2024-12-24 13:12:58,851 - INFO - Collected 8 commits for repository shapoco/uart-over-midi
+2024-12-24 13:12:58,869 - INFO - Fetched 5 commits on page 1 for 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:12:58,869 - INFO - Finished collecting commits for 0xdapper/zkevm-bridge-cow-hook. Total commits: 5
+2024-12-24 13:12:58,869 - INFO - Collected 5 commits for repository 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:12:58,908 - INFO - Fetched 13 commits on page 1 for Badhon7821/react-todo-app
+2024-12-24 13:12:58,908 - INFO - Finished collecting commits for Badhon7821/react-todo-app. Total commits: 13
+2024-12-24 13:12:58,908 - INFO - Collected 13 commits for repository Badhon7821/react-todo-app
+2024-12-24 13:12:58,910 - INFO - Fetched 2 commits on page 1 for saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:12:58,911 - INFO - Finished collecting commits for saptajitbanerjee/Electronics-Shopping-Site. Total commits: 2
+2024-12-24 13:12:58,911 - INFO - Collected 2 commits for repository saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:12:58,924 - INFO - Fetched 18 commits on page 1 for farhang74/feature-space
+2024-12-24 13:12:58,924 - INFO - Finished collecting commits for farhang74/feature-space. Total commits: 18
+2024-12-24 13:12:58,924 - INFO - Collected 18 commits for repository farhang74/feature-space
+2024-12-24 13:12:59,159 - INFO - Fetched detailed data for 21 commits in repository zuccs/disallow-chatgpt
+2024-12-24 13:12:59,159 - INFO - Starting to compute metrics for developers
+2024-12-24 13:12:59,161 - INFO - Metrics for daniel@zuccon.com added to developer_metrics list
+2024-12-24 13:12:59,161 - INFO - Completed computing metrics for developers
+2024-12-24 13:12:59,161 - INFO - Data collection and processing for zuccs/disallow-chatgpt completed
+2024-12-24 13:12:59,201 - INFO - Fetched 100 commits on page 1 for prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:12:59,278 - INFO - Fetched 100 commits on page 1 for admiral9200/lets-quiz
+2024-12-24 13:12:59,336 - INFO - Fetched 100 commits on page 2 for LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:12:59,392 - INFO - Fetched 100 commits on page 2 for Rhaegar121/Car-Rental-front-end
+2024-12-24 13:12:59,991 - INFO - Fetched detailed data for 30 commits in repository kailielexx/Space-Shooter-Game
+2024-12-24 13:12:59,991 - INFO - Starting to compute metrics for developers
+2024-12-24 13:12:59,992 - INFO - Metrics for davn0376@gmail.com added to developer_metrics list
+2024-12-24 13:12:59,993 - INFO - Metrics for hoangson091104@gmail.com added to developer_metrics list
+2024-12-24 13:12:59,993 - INFO - Metrics for kailielexx@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:12:59,994 - INFO - Completed computing metrics for developers
+2024-12-24 13:12:59,994 - INFO - Data collection and processing for kailielexx/Space-Shooter-Game completed
+2024-12-24 13:13:00,014 - INFO - Fetched 12 commits on page 2 for admiral9200/lets-quiz
+2024-12-24 13:13:00,014 - INFO - Finished collecting commits for admiral9200/lets-quiz. Total commits: 112
+2024-12-24 13:13:00,015 - INFO - Collected 112 commits for repository admiral9200/lets-quiz
+2024-12-24 13:13:00,189 - INFO - Fetched 100 commits on page 2 for prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:13:00,238 - INFO - Fetched 100 commits on page 3 for Rhaegar121/Car-Rental-front-end
+2024-12-24 13:13:00,251 - INFO - Fetched 100 commits on page 3 for LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:13:00,308 - INFO - Fetched detailed data for 12 commits in repository Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation
+2024-12-24 13:13:00,309 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:00,309 - INFO - Metrics for alikagarwala@outlook.com added to developer_metrics list
+2024-12-24 13:13:00,310 - INFO - Metrics for AvikAgarwala@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:00,310 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:00,310 - INFO - Data collection and processing for Alik-Agarwala/C-Plus-Plus-OOP-Queue-implementation completed
+2024-12-24 13:13:00,931 - INFO - Fetched 1 commits on page 3 for prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:13:00,931 - INFO - Finished collecting commits for prgrms-web-devcourse/Team-6Jeans-Hype-FE. Total commits: 201
+2024-12-24 13:13:00,931 - INFO - Collected 201 commits for repository prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:13:00,968 - INFO - Fetched 21 commits on page 4 for Rhaegar121/Car-Rental-front-end
+2024-12-24 13:13:00,968 - INFO - Finished collecting commits for Rhaegar121/Car-Rental-front-end. Total commits: 321
+2024-12-24 13:13:00,969 - INFO - Collected 321 commits for repository Rhaegar121/Car-Rental-front-end
+2024-12-24 13:13:01,031 - INFO - Fetched detailed data for 26 commits in repository zhfei/BubblePopup
+2024-12-24 13:13:01,031 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:01,032 - INFO - Metrics for 1174977961@qq.com added to developer_metrics list
+2024-12-24 13:13:01,032 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:01,032 - INFO - Data collection and processing for zhfei/BubblePopup completed
+2024-12-24 13:13:01,050 - INFO - Fetched detailed data for 2 commits in repository noge-labs/kind2lisp
+2024-12-24 13:13:01,051 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:01,051 - INFO - Metrics for gabrielnogueiraoliveira@gmail.com added to developer_metrics list
+2024-12-24 13:13:01,051 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:01,051 - INFO - Data collection and processing for noge-labs/kind2lisp completed
+2024-12-24 13:13:01,175 - INFO - Fetched 100 commits on page 4 for LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:13:01,423 - INFO - Fetched detailed data for 11 commits in repository thpoiani/dio-international-acceleration-kafka
+2024-12-24 13:13:01,424 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:01,424 - INFO - Metrics for thpoiani@gmail.com added to developer_metrics list
+2024-12-24 13:13:01,424 - INFO - Metrics for falvojr@gmail.com added to developer_metrics list
+2024-12-24 13:13:01,425 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:01,425 - INFO - Data collection and processing for thpoiani/dio-international-acceleration-kafka completed
+2024-12-24 13:13:02,097 - INFO - Fetched 100 commits on page 5 for LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:13:02,600 - INFO - Fetched detailed data for 1 commits in repository SanfordWeber/luckytoadsss
+2024-12-24 13:13:02,601 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:02,601 - INFO - Metrics for SanfordWeber@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:02,601 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:02,601 - INFO - Data collection and processing for SanfordWeber/luckytoadsss completed
+2024-12-24 13:13:02,661 - INFO - Fetched detailed data for 46 commits in repository MarcoWorms/repo-radar
+2024-12-24 13:13:02,661 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:02,663 - INFO - Metrics for marcogworms@gmail.com added to developer_metrics list
+2024-12-24 13:13:02,663 - INFO - Metrics for shawn@zksnarks.xyz added to developer_metrics list
+2024-12-24 13:13:02,663 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:02,664 - INFO - Data collection and processing for MarcoWorms/repo-radar completed
+2024-12-24 13:13:02,875 - INFO - Fetched 47 commits on page 6 for LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:13:02,876 - INFO - Finished collecting commits for LouisLanganay/Zombie-Quarter-Rampage-my_rpg. Total commits: 547
+2024-12-24 13:13:02,876 - INFO - Collected 547 commits for repository LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:13:02,888 - INFO - Fetched detailed data for 2 commits in repository notwld/lab-exam-practice-react-dotnet
+2024-12-24 13:13:02,888 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:02,888 - INFO - Metrics for notwld@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:02,888 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:02,888 - INFO - Data collection and processing for notwld/lab-exam-practice-react-dotnet completed
+2024-12-24 13:13:02,907 - INFO - Fetched detailed data for 3 commits in repository sroycho4/Object_Detection
+2024-12-24 13:13:02,907 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:02,907 - INFO - Metrics for sroycho4@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:02,907 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:02,907 - INFO - Data collection and processing for sroycho4/Object_Detection completed
+2024-12-24 13:13:03,382 - INFO - Fetched detailed data for 17 commits in repository lrangell/theme-cycler.nvim
+2024-12-24 13:13:03,382 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:03,382 - INFO - Metrics for github-actions[bot]@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:03,383 - INFO - Metrics for lucas@rangel.dev added to developer_metrics list
+2024-12-24 13:13:03,383 - INFO - Metrics for lrangell@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:03,384 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:03,384 - INFO - Data collection and processing for lrangell/theme-cycler.nvim completed
+2024-12-24 13:13:03,757 - INFO - Fetched detailed data for 13 commits in repository adam-younes/calculator
+2024-12-24 13:13:03,757 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:03,757 - INFO - Metrics for adam-younes@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:03,758 - INFO - Metrics for SamakMashwee@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:03,758 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:03,758 - INFO - Data collection and processing for adam-younes/calculator completed
+2024-12-24 13:13:04,883 - INFO - Fetched detailed data for 44 commits in repository nicewook/gopt
+2024-12-24 13:13:04,883 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:04,884 - INFO - Metrics for hyunseok.jeong@illuminarean.com added to developer_metrics list
+2024-12-24 13:13:04,886 - INFO - Metrics for hyunseok.jeong@annotation-ai.com added to developer_metrics list
+2024-12-24 13:13:04,886 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:04,887 - INFO - Data collection and processing for nicewook/gopt completed
+2024-12-24 13:13:04,904 - INFO - Fetched detailed data for 2 commits in repository Async-House/documentos-asynchub
+2024-12-24 13:13:04,905 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:04,905 - INFO - Metrics for davidribeiro086@gmail.com added to developer_metrics list
+2024-12-24 13:13:04,905 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:04,905 - INFO - Data collection and processing for Async-House/documentos-asynchub completed
+2024-12-24 13:13:05,038 - INFO - Fetched detailed data for 3 commits in repository philnash/asst
+2024-12-24 13:13:05,038 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:05,038 - INFO - Metrics for philnash@gmail.com added to developer_metrics list
+2024-12-24 13:13:05,038 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:05,038 - INFO - Data collection and processing for philnash/asst completed
+2024-12-24 13:13:05,269 - INFO - Fetched detailed data for 1 commits in repository sandhya8109/chelibeti
+2024-12-24 13:13:05,269 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:05,269 - INFO - Metrics for sandhya8109@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:05,269 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:05,269 - INFO - Data collection and processing for sandhya8109/chelibeti completed
+2024-12-24 13:13:05,462 - INFO - Fetched detailed data for 8 commits in repository spencer2k19/SwiftUIMapApp
+2024-12-24 13:13:05,462 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:05,463 - INFO - Metrics for spencer2k19@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:05,464 - INFO - Metrics for loichacheme@MacBook-Pro-de-Loic.local added to developer_metrics list
+2024-12-24 13:13:05,464 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:05,464 - INFO - Data collection and processing for spencer2k19/SwiftUIMapApp completed
+2024-12-24 13:13:05,752 - INFO - Fetched detailed data for 1 commits in repository enesinho32/31enesinho
+2024-12-24 13:13:05,752 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:05,752 - INFO - Metrics for enesinho32@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:05,753 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:05,753 - INFO - Data collection and processing for enesinho32/31enesinho completed
+2024-12-24 13:13:05,815 - INFO - Fetched detailed data for 18 commits in repository snepsnepy/romanian-programming-language
+2024-12-24 13:13:05,815 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:05,816 - INFO - Metrics for snepsnepy@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:05,817 - INFO - Metrics for snepysneptest@gmail.com added to developer_metrics list
+2024-12-24 13:13:05,817 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:05,817 - INFO - Data collection and processing for snepsnepy/romanian-programming-language completed
+2024-12-24 13:13:07,871 - INFO - Fetched detailed data for 73 commits in repository CogniHack/CogniHack
+2024-12-24 13:13:07,871 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:07,872 - INFO - Metrics for FMurray@gmail.com added to developer_metrics list
+2024-12-24 13:13:07,872 - INFO - Metrics for R.Grippeling@hotmail.com added to developer_metrics list
+2024-12-24 13:13:07,874 - INFO - Metrics for ryan@webgrip.nl added to developer_metrics list
+2024-12-24 13:13:07,874 - INFO - Metrics for Alignment-Lab-AI@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:07,874 - INFO - Metrics for ytrinathy@gmail.com added to developer_metrics list
+2024-12-24 13:13:07,874 - INFO - Metrics for kayshreyas@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:07,875 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:07,875 - INFO - Data collection and processing for CogniHack/CogniHack completed
+2024-12-24 13:13:08,334 - INFO - Fetched detailed data for 2 commits in repository scarey/bass-reactive-leds
+2024-12-24 13:13:08,334 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:08,334 - INFO - Metrics for scarey@scarey.net added to developer_metrics list
+2024-12-24 13:13:08,335 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:08,335 - INFO - Data collection and processing for scarey/bass-reactive-leds completed
+2024-12-24 13:13:08,441 - INFO - Fetched detailed data for 2 commits in repository rockstarcoder333/Drum-Classification
+2024-12-24 13:13:08,442 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:08,442 - INFO - Metrics for successcoder123@gmail.com added to developer_metrics list
+2024-12-24 13:13:08,442 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:08,442 - INFO - Data collection and processing for rockstarcoder333/Drum-Classification completed
+2024-12-24 13:13:08,498 - INFO - Fetched detailed data for 15 commits in repository Badhon7821/proxima-server
+2024-12-24 13:13:08,498 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:08,499 - INFO - Metrics for bayozidbostamibadhon@gmail.com added to developer_metrics list
+2024-12-24 13:13:08,499 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:08,499 - INFO - Data collection and processing for Badhon7821/proxima-server completed
+2024-12-24 13:13:08,783 - INFO - Fetched detailed data for 14 commits in repository bachittle/FileGPT
+2024-12-24 13:13:08,784 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:08,785 - INFO - Metrics for bachittle@gmail.com added to developer_metrics list
+2024-12-24 13:13:08,785 - INFO - Metrics for baileyc@tessonics.com added to developer_metrics list
+2024-12-24 13:13:08,786 - INFO - Metrics for bachittle@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:08,786 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:08,786 - INFO - Data collection and processing for bachittle/FileGPT completed
+2024-12-24 13:13:08,913 - INFO - Fetched detailed data for 2 commits in repository rdev/butmyrectangles
+2024-12-24 13:13:08,913 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:08,914 - INFO - Metrics for rdev@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:08,914 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:08,915 - INFO - Data collection and processing for rdev/butmyrectangles completed
+2024-12-24 13:13:08,973 - INFO - Fetched detailed data for 2 commits in repository Datastory-CN/DataStoryLLMBenchmark
+2024-12-24 13:13:08,974 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:08,974 - INFO - Metrics for Datastory-CN@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:08,974 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:08,974 - INFO - Data collection and processing for Datastory-CN/DataStoryLLMBenchmark completed
+2024-12-24 13:13:09,381 - INFO - Fetched detailed data for 19 commits in repository BOWSTRINGHERO/dianthus
+2024-12-24 13:13:09,382 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:09,382 - INFO - Metrics for BOWSTRINGHERO@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:09,383 - INFO - Metrics for hyeonjun217.lee@gmail.com added to developer_metrics list
+2024-12-24 13:13:09,383 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:09,383 - INFO - Data collection and processing for BOWSTRINGHERO/dianthus completed
+2024-12-24 13:13:09,816 - INFO - Fetched detailed data for 14 commits in repository Shubh2-0/Coupling
+2024-12-24 13:13:09,817 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:09,818 - INFO - Metrics for Shubh2-0@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:09,818 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:09,818 - INFO - Data collection and processing for Shubh2-0/Coupling completed
+2024-12-24 13:13:10,733 - INFO - Fetched detailed data for 30 commits in repository xlab-uiuc/csi-ae
+2024-12-24 13:13:10,733 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:10,734 - INFO - Metrics for liliatangxy@gmail.com added to developer_metrics list
+2024-12-24 13:13:10,734 - INFO - Metrics for liliat2@illinois.edu added to developer_metrics list
+2024-12-24 13:13:10,735 - INFO - Metrics for chaitanyabhushanbhandari@gmail.com added to developer_metrics list
+2024-12-24 13:13:10,735 - INFO - Metrics for chaitanyabhandari@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:10,735 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:10,736 - INFO - Data collection and processing for xlab-uiuc/csi-ae completed
+2024-12-24 13:13:11,929 - INFO - Fetched detailed data for 38 commits in repository eth-cscs/SummerUniversity2023
+2024-12-24 13:13:11,930 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:11,930 - INFO - Metrics for rafael.sarmiento@cscs.ch added to developer_metrics list
+2024-12-24 13:13:11,931 - INFO - Metrics for kanduri@cscs.ch added to developer_metrics list
+2024-12-24 13:13:11,932 - INFO - Metrics for sebastian.f.keller@gmail.com added to developer_metrics list
+2024-12-24 13:13:11,932 - INFO - Metrics for gppezzi@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:11,933 - INFO - Metrics for peretti@cscs.ch added to developer_metrics list
+2024-12-24 13:13:11,933 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:11,933 - INFO - Data collection and processing for eth-cscs/SummerUniversity2023 completed
+2024-12-24 13:13:12,160 - INFO - Fetched detailed data for 13 commits in repository ITurres/Jest-Testing
+2024-12-24 13:13:12,160 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:12,161 - INFO - Metrics for emanueliturres.co@gmail.com added to developer_metrics list
+2024-12-24 13:13:12,161 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:12,161 - INFO - Data collection and processing for ITurres/Jest-Testing completed
+2024-12-24 13:13:13,112 - INFO - Fetched detailed data for 23 commits in repository vychodlc/SlunceUI
+2024-12-24 13:13:13,112 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:13,113 - INFO - Metrics for weyounglc@163.com added to developer_metrics list
+2024-12-24 13:13:13,113 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:13,113 - INFO - Data collection and processing for vychodlc/SlunceUI completed
+2024-12-24 13:13:13,367 - INFO - Fetched detailed data for 7 commits in repository fendouai/babyagi_zh
+2024-12-24 13:13:13,367 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:13,368 - INFO - Metrics for fendouai@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:13,368 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:13,368 - INFO - Data collection and processing for fendouai/babyagi_zh completed
+2024-12-24 13:13:13,397 - INFO - Fetched detailed data for 2 commits in repository chenning0115/spectral_diff_temp
+2024-12-24 13:13:13,398 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:13,398 - INFO - Metrics for chenning0115@163.com added to developer_metrics list
+2024-12-24 13:13:13,398 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:13,398 - INFO - Data collection and processing for chenning0115/spectral_diff_temp completed
+2024-12-24 13:13:13,574 - INFO - Fetched detailed data for 8 commits in repository Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists
+2024-12-24 13:13:13,575 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:13,575 - INFO - Metrics for alikagarwala@outlook.com added to developer_metrics list
+2024-12-24 13:13:13,576 - INFO - Metrics for AvikAgarwala@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:13,576 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:13,576 - INFO - Data collection and processing for Alik-Agarwala/C-Plus-Plus-OOP-Linked-Lists completed
+2024-12-24 13:13:14,626 - INFO - Fetched detailed data for 37 commits in repository quii/learn-clojure-with-tests
+2024-12-24 13:13:14,626 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:14,627 - INFO - Metrics for quii@hey.com added to developer_metrics list
+2024-12-24 13:13:14,629 - INFO - Metrics for chris.james@springernature.com added to developer_metrics list
+2024-12-24 13:13:14,629 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:14,629 - INFO - Data collection and processing for quii/learn-clojure-with-tests completed
+2024-12-24 13:13:14,688 - INFO - Fetched detailed data for 3 commits in repository WobbegangTassel/booze-your-own-adventure
+2024-12-24 13:13:14,688 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:14,688 - INFO - Metrics for jason-breen@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:14,689 - INFO - Metrics for jason.breen@gmail.com added to developer_metrics list
+2024-12-24 13:13:14,689 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:14,689 - INFO - Data collection and processing for WobbegangTassel/booze-your-own-adventure completed
+2024-12-24 13:13:15,027 - INFO - Fetched detailed data for 15 commits in repository eduardovirtual/Projeto-Loja-de-Informatica
+2024-12-24 13:13:15,027 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:15,029 - INFO - Metrics for eduardovirtual@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:15,029 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:15,029 - INFO - Data collection and processing for eduardovirtual/Projeto-Loja-de-Informatica completed
+2024-12-24 13:13:15,587 - INFO - Fetched detailed data for 1 commits in repository linuxandchill/BabyAGIxLangchain
+2024-12-24 13:13:15,589 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:15,589 - INFO - Metrics for munyontyler@gmail.com added to developer_metrics list
+2024-12-24 13:13:15,589 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:15,589 - INFO - Data collection and processing for linuxandchill/BabyAGIxLangchain completed
+2024-12-24 13:13:15,617 - INFO - Fetched detailed data for 5 commits in repository betoblid/Fylo_landing_page
+2024-12-24 13:13:15,617 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:15,617 - INFO - Metrics for betoblid@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:15,618 - INFO - Metrics for soyzabeto@gmail.com added to developer_metrics list
+2024-12-24 13:13:15,618 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:15,618 - INFO - Data collection and processing for betoblid/Fylo_landing_page completed
+2024-12-24 13:13:15,722 - INFO - Fetched detailed data for 1 commits in repository Sudhaanshuu/HackerRank
+2024-12-24 13:13:15,723 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:15,723 - INFO - Metrics for 2201030100@cgu-odisha.ac.in added to developer_metrics list
+2024-12-24 13:13:15,723 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:15,723 - INFO - Data collection and processing for Sudhaanshuu/HackerRank completed
+2024-12-24 13:13:15,791 - INFO - Fetched detailed data for 2 commits in repository GillCleeren/CleanArchitectureFirstRowTickets
+2024-12-24 13:13:15,791 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:15,792 - INFO - Metrics for GillCleeren@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:15,792 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:15,792 - INFO - Data collection and processing for GillCleeren/CleanArchitectureFirstRowTickets completed
+2024-12-24 13:13:15,960 - INFO - Fetched detailed data for 9 commits in repository gvalverd/MLUCM2223
+2024-12-24 13:13:15,961 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:15,962 - INFO - Metrics for gabrielvalverdecastilla@gmail.com added to developer_metrics list
+2024-12-24 13:13:15,962 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:15,962 - INFO - Data collection and processing for gvalverd/MLUCM2223 completed
+2024-12-24 13:13:17,844 - INFO - Fetched detailed data for 72 commits in repository KNowledgeOnWebScale/solid-authentication-browser-extension
+2024-12-24 13:13:17,844 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:17,845 - INFO - Metrics for axellorreyne@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:17,847 - INFO - Metrics for axellorreyne2@gmail.com added to developer_metrics list
+2024-12-24 13:13:17,848 - INFO - Metrics for pheyvaer.heyvaert@ugent.be added to developer_metrics list
+2024-12-24 13:13:17,848 - INFO - Metrics for ruben@verborgh.org added to developer_metrics list
+2024-12-24 13:13:17,848 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:17,848 - INFO - Data collection and processing for KNowledgeOnWebScale/solid-authentication-browser-extension completed
+2024-12-24 13:13:18,473 - INFO - Fetched detailed data for 18 commits in repository extrawest/bank_ui_flutter_challenge
+2024-12-24 13:13:18,473 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:18,473 - INFO - Metrics for andriy-gulak-ew@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:18,474 - INFO - Metrics for andriy.gulak@extrawest.com added to developer_metrics list
+2024-12-24 13:13:18,474 - INFO - Metrics for oleksii.melnychenko@extrawest.com added to developer_metrics list
+2024-12-24 13:13:18,475 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:18,475 - INFO - Data collection and processing for extrawest/bank_ui_flutter_challenge completed
+2024-12-24 13:13:19,648 - INFO - Fetched detailed data for 52 commits in repository MathItYT/manim-svg-animations
+2024-12-24 13:13:19,648 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:19,650 - INFO - Metrics for thebenjitaubilla@gmail.com added to developer_metrics list
+2024-12-24 13:13:19,650 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:19,650 - INFO - Data collection and processing for MathItYT/manim-svg-animations completed
+2024-12-24 13:13:19,757 - INFO - Fetched detailed data for 3 commits in repository XxMordRedxX/Useless
+2024-12-24 13:13:19,757 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:19,757 - INFO - Metrics for XxMordRedxX@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:19,757 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:19,758 - INFO - Data collection and processing for XxMordRedxX/Useless completed
+2024-12-24 13:13:19,947 - INFO - Fetched detailed data for 8 commits in repository Michel-Heinz/Audito
+2024-12-24 13:13:19,947 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:19,948 - INFO - Metrics for Michel-Heinz@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:19,948 - INFO - Metrics for heinz@pc.rwth-aachen.de added to developer_metrics list
+2024-12-24 13:13:19,948 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:19,948 - INFO - Data collection and processing for Michel-Heinz/Audito completed
+2024-12-24 13:13:20,115 - INFO - Fetched detailed data for 4 commits in repository tiagorbf/indie-twitter-plugin
+2024-12-24 13:13:20,116 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:20,116 - INFO - Metrics for tiago9ferreira@msn.com added to developer_metrics list
+2024-12-24 13:13:20,116 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:20,116 - INFO - Data collection and processing for tiagorbf/indie-twitter-plugin completed
+2024-12-24 13:13:20,251 - INFO - Fetched detailed data for 4 commits in repository wavestone-cdt/bhasia23-opcuhack
+2024-12-24 13:13:20,251 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:20,252 - INFO - Metrics for soullie.arnaud@gmail.com added to developer_metrics list
+2024-12-24 13:13:20,252 - INFO - Metrics for github.cdt@wavestone.com added to developer_metrics list
+2024-12-24 13:13:20,252 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:20,252 - INFO - Data collection and processing for wavestone-cdt/bhasia23-opcuhack completed
+2024-12-24 13:13:20,718 - INFO - Fetched detailed data for 16 commits in repository lmbelo/xml-lexer4delphi
+2024-12-24 13:13:20,718 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:20,719 - INFO - Metrics for lucas.belo@live.com added to developer_metrics list
+2024-12-24 13:13:20,719 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:20,719 - INFO - Data collection and processing for lmbelo/xml-lexer4delphi completed
+2024-12-24 13:13:21,072 - INFO - Fetched detailed data for 11 commits in repository devmrwor/Laravel-Ecommerce-Backend
+2024-12-24 13:13:21,073 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:21,074 - INFO - Metrics for michaelryanrm18@gmail.com added to developer_metrics list
+2024-12-24 13:13:21,074 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:21,074 - INFO - Data collection and processing for devmrwor/Laravel-Ecommerce-Backend completed
+2024-12-24 13:13:21,419 - INFO - Fetched detailed data for 17 commits in repository DarkMartin18/iw2023ittepic
+2024-12-24 13:13:21,419 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:21,420 - INFO - Metrics for DarkMartin18@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:21,421 - INFO - Metrics for darkmartin18@hotmail.com added to developer_metrics list
+2024-12-24 13:13:21,421 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:21,421 - INFO - Data collection and processing for DarkMartin18/iw2023ittepic completed
+2024-12-24 13:13:23,199 - INFO - Fetched detailed data for 36 commits in repository federicaulzurrun/AwesomeBooks
+2024-12-24 13:13:23,199 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:23,199 - INFO - Metrics for federicaulzurrun@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:23,200 - INFO - Metrics for fzulzurrun@gmail.com added to developer_metrics list
+2024-12-24 13:13:23,201 - INFO - Metrics for melaniecascante.j@gmail.com added to developer_metrics list
+2024-12-24 13:13:23,201 - INFO - Metrics for Maedea9@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:23,201 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:23,201 - INFO - Data collection and processing for federicaulzurrun/AwesomeBooks completed
+2024-12-24 13:13:23,707 - INFO - Fetched detailed data for 37 commits in repository mo7amedaliEbaid/kafka
+2024-12-24 13:13:23,708 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:23,710 - INFO - Metrics for mo7amedaliebaid@gmail.com added to developer_metrics list
+2024-12-24 13:13:23,710 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:23,711 - INFO - Data collection and processing for mo7amedaliEbaid/kafka completed
+2024-12-24 13:13:23,714 - INFO - Fetched detailed data for 4 commits in repository davidfp00/Arduino-Hourglass
+2024-12-24 13:13:23,715 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:23,715 - INFO - Metrics for davidfp00@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:23,715 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:23,715 - INFO - Data collection and processing for davidfp00/Arduino-Hourglass completed
+2024-12-24 13:13:24,564 - INFO - Fetched detailed data for 27 commits in repository uri1001/the-evm-networks-project
+2024-12-24 13:13:24,565 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:24,566 - INFO - Metrics for u-1001x@pm.me added to developer_metrics list
+2024-12-24 13:13:24,566 - INFO - Metrics for uri@The-MacBook-II.local added to developer_metrics list
+2024-12-24 13:13:24,566 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:24,566 - INFO - Data collection and processing for uri1001/the-evm-networks-project completed
+2024-12-24 13:13:24,608 - INFO - Fetched detailed data for 4 commits in repository MitkoVtori/ChristmasShop
+2024-12-24 13:13:24,608 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:24,608 - INFO - Metrics for MitkoVtori@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:24,609 - INFO - Metrics for gamingplayerdm@gmail.com added to developer_metrics list
+2024-12-24 13:13:24,609 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:24,609 - INFO - Data collection and processing for MitkoVtori/ChristmasShop completed
+2024-12-24 13:13:24,647 - INFO - Fetched detailed data for 1 commits in repository gege5758/jOBSTREET
+2024-12-24 13:13:24,648 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:24,648 - INFO - Metrics for gege5758@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:24,648 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:24,648 - INFO - Data collection and processing for gege5758/jOBSTREET completed
+2024-12-24 13:13:25,633 - INFO - Fetched detailed data for 31 commits in repository Sudhaanshuu/CraftFlow
+2024-12-24 13:13:25,633 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:25,634 - INFO - Metrics for 2201030100@cgu-odisha.ac.in added to developer_metrics list
+2024-12-24 13:13:25,635 - INFO - Metrics for Sudhaanshuu@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:25,635 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:25,635 - INFO - Data collection and processing for Sudhaanshuu/CraftFlow completed
+2024-12-24 13:13:26,350 - INFO - Fetched detailed data for 26 commits in repository pycadd/PycadNewsletter
+2024-12-24 13:13:26,351 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:26,352 - INFO - Metrics for mokhtari.amine1996@gmail.com added to developer_metrics list
+2024-12-24 13:13:26,353 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:26,353 - INFO - Data collection and processing for pycadd/PycadNewsletter completed
+2024-12-24 13:13:26,490 - INFO - Fetched detailed data for 4 commits in repository wickstudio/System-Information
+2024-12-24 13:13:26,490 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:26,491 - INFO - Metrics for Wickdev077@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:26,491 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:26,491 - INFO - Data collection and processing for wickstudio/System-Information completed
+2024-12-24 13:13:27,283 - INFO - Fetched detailed data for 27 commits in repository andradeigor/punpuns-portfolio
+2024-12-24 13:13:27,283 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:27,285 - INFO - Metrics for ig.vp@hotmail.com added to developer_metrics list
+2024-12-24 13:13:27,285 - INFO - Metrics for devleo.contato@gmail.com added to developer_metrics list
+2024-12-24 13:13:27,286 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:27,286 - INFO - Data collection and processing for andradeigor/punpuns-portfolio completed
+2024-12-24 13:13:27,358 - INFO - Fetched detailed data for 3 commits in repository firjfijr-m5-2/auto-green-m5-2
+2024-12-24 13:13:27,358 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:27,358 - INFO - Metrics for firjfijr-m5-2@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:27,359 - INFO - Metrics for justjavac@gmail.com added to developer_metrics list
+2024-12-24 13:13:27,359 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:27,359 - INFO - Data collection and processing for firjfijr-m5-2/auto-green-m5-2 completed
+2024-12-24 13:13:27,859 - INFO - Fetched detailed data for 5 commits in repository MussieTeka/Bootstrap-Porfolio
+2024-12-24 13:13:27,859 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:27,859 - INFO - Metrics for MussieTeka@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:27,860 - INFO - Metrics for JansueT@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:27,860 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:27,860 - INFO - Data collection and processing for MussieTeka/Bootstrap-Porfolio completed
+2024-12-24 13:13:28,915 - INFO - Fetched detailed data for 11 commits in repository morsh99/Resume-1
+2024-12-24 13:13:28,915 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:28,916 - INFO - Metrics for morsh99@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:28,916 - INFO - Metrics for sharifi.morsh@gmail.com added to developer_metrics list
+2024-12-24 13:13:28,916 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:28,916 - INFO - Data collection and processing for morsh99/Resume-1 completed
+2024-12-24 13:13:29,344 - INFO - Fetched detailed data for 39 commits in repository ajsb85/footpattern.ai
+2024-12-24 13:13:29,344 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:29,345 - INFO - Metrics for renovate[bot]@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:29,345 - INFO - Metrics for commits@restyled.io added to developer_metrics list
+2024-12-24 13:13:29,346 - INFO - Metrics for inoublileith@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:29,346 - INFO - Metrics for a.salas@ieee.org added to developer_metrics list
+2024-12-24 13:13:29,347 - INFO - Metrics for ImgBotHelp@gmail.com added to developer_metrics list
+2024-12-24 13:13:29,347 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:29,347 - INFO - Data collection and processing for ajsb85/footpattern.ai completed
+2024-12-24 13:13:29,414 - INFO - Fetched detailed data for 4 commits in repository saria-mohi/JAVA
+2024-12-24 13:13:29,414 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:29,415 - INFO - Metrics for saria.m.mohammed@gmail.com added to developer_metrics list
+2024-12-24 13:13:29,415 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:29,415 - INFO - Data collection and processing for saria-mohi/JAVA completed
+2024-12-24 13:13:30,068 - INFO - Fetched detailed data for 17 commits in repository Hoaru/Black-Friday-Flash-Sale-Website
+2024-12-24 13:13:30,068 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:30,069 - INFO - Metrics for hoarubo@gmail.com added to developer_metrics list
+2024-12-24 13:13:30,069 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:30,069 - INFO - Data collection and processing for Hoaru/Black-Friday-Flash-Sale-Website completed
+2024-12-24 13:13:31,340 - INFO - Fetched detailed data for 58 commits in repository jeremyadamsfisher/podcast2podcast
+2024-12-24 13:13:31,341 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:31,343 - INFO - Metrics for jeremyadamsfisher@gmail.com added to developer_metrics list
+2024-12-24 13:13:31,343 - INFO - Metrics for jeremy.adams.fisher@gmail.com added to developer_metrics list
+2024-12-24 13:13:31,343 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:31,343 - INFO - Data collection and processing for jeremyadamsfisher/podcast2podcast completed
+2024-12-24 13:13:31,909 - INFO - Fetched detailed data for 14 commits in repository matiasngf/pepito-tracker
+2024-12-24 13:13:31,910 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:31,911 - INFO - Metrics for matiasngf@hotmail.com added to developer_metrics list
+2024-12-24 13:13:31,911 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:31,911 - INFO - Data collection and processing for matiasngf/pepito-tracker completed
+2024-12-24 13:13:32,709 - INFO - Fetched detailed data for 37 commits in repository pip64/PyDimanify
+2024-12-24 13:13:32,709 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:32,711 - INFO - Metrics for pip64@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:32,711 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:32,711 - INFO - Data collection and processing for pip64/PyDimanify completed
+2024-12-24 13:13:32,728 - INFO - Fetched detailed data for 3 commits in repository Asma-179/Asma
+2024-12-24 13:13:32,729 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:32,729 - INFO - Metrics for Asma-179@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:32,729 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:32,729 - INFO - Data collection and processing for Asma-179/Asma completed
+2024-12-24 13:13:33,294 - INFO - Fetched detailed data for 20 commits in repository cmslee/caseylee-portfolio
+2024-12-24 13:13:33,294 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:33,295 - INFO - Metrics for c.m.s.lee0207@gmail.com added to developer_metrics list
+2024-12-24 13:13:33,295 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:33,296 - INFO - Data collection and processing for cmslee/caseylee-portfolio completed
+2024-12-24 13:13:33,345 - INFO - Fetched detailed data for 3 commits in repository fazt/python-click-tutorial
+2024-12-24 13:13:33,345 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:33,345 - INFO - Metrics for fazt@faztweb.com added to developer_metrics list
+2024-12-24 13:13:33,345 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:33,346 - INFO - Data collection and processing for fazt/python-click-tutorial completed
+2024-12-24 13:13:33,563 - INFO - Fetched detailed data for 8 commits in repository shapoco/uart-over-midi
+2024-12-24 13:13:33,563 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:33,564 - INFO - Metrics for shapoco@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:33,564 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:33,564 - INFO - Data collection and processing for shapoco/uart-over-midi completed
+2024-12-24 13:13:33,737 - INFO - Fetched detailed data for 5 commits in repository 0xdapper/zkevm-bridge-cow-hook
+2024-12-24 13:13:33,738 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:33,738 - INFO - Metrics for 0xdapp@protonmail.com added to developer_metrics list
+2024-12-24 13:13:33,738 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:33,740 - INFO - Data collection and processing for 0xdapper/zkevm-bridge-cow-hook completed
+2024-12-24 13:13:34,082 - INFO - Fetched detailed data for 13 commits in repository Badhon7821/react-todo-app
+2024-12-24 13:13:34,082 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:34,083 - INFO - Metrics for bayozidbostamibadhon@gmail.com added to developer_metrics list
+2024-12-24 13:13:34,083 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:34,083 - INFO - Data collection and processing for Badhon7821/react-todo-app completed
+2024-12-24 13:13:34,202 - INFO - Fetched detailed data for 2 commits in repository saptajitbanerjee/Electronics-Shopping-Site
+2024-12-24 13:13:34,202 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:34,202 - INFO - Metrics for saptajitbanerjee2002@gmail.com added to developer_metrics list
+2024-12-24 13:13:34,202 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:34,203 - INFO - Data collection and processing for saptajitbanerjee/Electronics-Shopping-Site completed
+2024-12-24 13:13:34,717 - INFO - Fetched detailed data for 18 commits in repository farhang74/feature-space
+2024-12-24 13:13:34,717 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:34,717 - INFO - Metrics for farhang74@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:34,718 - INFO - Metrics for zarefarhang@gmail.com added to developer_metrics list
+2024-12-24 13:13:34,718 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:34,718 - INFO - Data collection and processing for farhang74/feature-space completed
+2024-12-24 13:13:37,956 - INFO - Fetched detailed data for 112 commits in repository admiral9200/lets-quiz
+2024-12-24 13:13:37,956 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:37,959 - INFO - Metrics for lion9200.world@gmail.com added to developer_metrics list
+2024-12-24 13:13:37,959 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:37,960 - INFO - Data collection and processing for admiral9200/lets-quiz completed
+2024-12-24 13:13:43,654 - INFO - Fetched detailed data for 201 commits in repository prgrms-web-devcourse/Team-6Jeans-Hype-FE
+2024-12-24 13:13:43,655 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:43,657 - INFO - Metrics for dazzel3@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:43,659 - INFO - Metrics for shkim061198@gmail.com added to developer_metrics list
+2024-12-24 13:13:43,661 - INFO - Metrics for Park-min-hyoung@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:43,663 - INFO - Metrics for njy1007@gmail.com added to developer_metrics list
+2024-12-24 13:13:43,663 - INFO - Metrics for shkim787@naver.com added to developer_metrics list
+2024-12-24 13:13:43,663 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:43,663 - INFO - Data collection and processing for prgrms-web-devcourse/Team-6Jeans-Hype-FE completed
+2024-12-24 13:13:52,103 - INFO - Fetched detailed data for 321 commits in repository Rhaegar121/Car-Rental-front-end
+2024-12-24 13:13:52,103 - INFO - Starting to compute metrics for developers
+2024-12-24 13:13:52,111 - INFO - Metrics for kaungmyatkyaw7012@gmail.com added to developer_metrics list
+2024-12-24 13:13:52,111 - INFO - Metrics for ImgBotHelp@gmail.com added to developer_metrics list
+2024-12-24 13:13:52,112 - INFO - Metrics for 187jjay187@gmail.com added to developer_metrics list
+2024-12-24 13:13:52,113 - INFO - Metrics for chase6th@gmail.com added to developer_metrics list
+2024-12-24 13:13:52,113 - INFO - Metrics for Chaseknis@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:13:52,113 - INFO - Metrics for rachelisaac995@gmail.com added to developer_metrics list
+2024-12-24 13:13:52,113 - INFO - Completed computing metrics for developers
+2024-12-24 13:13:52,113 - INFO - Data collection and processing for Rhaegar121/Car-Rental-front-end completed
+2024-12-24 13:13:58,623 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,642 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,643 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,643 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,650 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,653 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,664 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,756 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,762 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:13:58,768 - WARNING - Rate limit exceeded. Sleeping for 2412 seconds until 2024-12-24 13:54:06.
+2024-12-24 13:54:20,468 - INFO - Fetched detailed data for 547 commits in repository LouisLanganay/Zombie-Quarter-Rampage-my_rpg
+2024-12-24 13:54:20,469 - INFO - Starting to compute metrics for developers
+2024-12-24 13:54:20,479 - INFO - Metrics for louis.langanay@epitech.eu added to developer_metrics list
+2024-12-24 13:54:20,482 - INFO - Metrics for valentin.peron@epitech.eu added to developer_metrics list
+2024-12-24 13:54:20,483 - INFO - Metrics for ValentinPeron@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:54:20,485 - INFO - Metrics for guillaume.blaizot@epitech.eu added to developer_metrics list
+2024-12-24 13:54:20,486 - INFO - Metrics for augustin.bost@epitech.eu added to developer_metrics list
+2024-12-24 13:54:20,486 - INFO - Metrics for AugustinBst@users.noreply.github.com added to developer_metrics list
+2024-12-24 13:54:20,486 - INFO - Completed computing metrics for developers
+2024-12-24 13:54:20,487 - INFO - Data collection and processing for LouisLanganay/Zombie-Quarter-Rampage-my_rpg completed
+2024-12-24 13:54:20,501 - INFO - Completed data collection from all repositories
+2024-12-24 13:54:20,503 - INFO - Converting developer metrics to DataFrame
+2024-12-24 13:54:20,507 - INFO - Starting DataFrame cleaning and sanitization
+2024-12-24 13:54:20,511 - INFO - DataFrame cleaning and sanitization completed
+2024-12-24 13:54:20,511 - INFO - Starting to save developer metrics to file 'developer_metrics.parquet'
+2024-12-24 13:54:20,537 - INFO - Developer metrics successfully saved to 'results\developer_metrics.parquet'.
+2024-12-24 13:54:20,537 - INFO - Script execution completed
