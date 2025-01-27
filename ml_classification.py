@@ -77,7 +77,7 @@ st.markdown('<div class="sub-title">Zhlukovanie a Klasifikácia Vývojárov do Z
 # ------------------------------------------------------------------------------
 # 2) NAČÍTANIE DÁT
 # ------------------------------------------------------------------------------
-DATA_FILE = "C:/Users/nikit/PycharmProjects/Bk/DataCollecting/src/results/developer_metrics.parquet"
+DATA_FILE = "DataCollecting/src/results/developer_metrics.parquet"
 
 
 @st.cache_data
